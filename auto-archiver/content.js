@@ -1,27 +1,99 @@
 console.log("content.js loaded");
 
-function sendText(reason) {
-  const text = document.body ? document.body.innerText : "";
+let initialTimeout = null;
+let autosaveInterval = null;
 
-  chrome.runtime.sendMessage({
-    type: "PAGE_TEXT",
-    reason,
-    url: location.href,
-    title: document.title,
-    text,
-    textLength: text.length,
-    timestamp: Date.now()
-  });
-
-  console.log("Text sent:", reason);
+function clearTimers() {
+  if (initialTimeout) clearTimeout(initialTimeout);
+  if (autosaveInterval) clearInterval(autosaveInterval);
+  initialTimeout = autosaveInterval = null;
 }
 
-// Archive once after 10 seconds
-setTimeout(() => {
-  sendText("initial_archive");
-}, 10_000);
+function setupTimers() {
+  chrome.storage.local.get(
+    ["enabled", "initialDelay", "autosaveDelay"],
+    (res) => {
+      if (!res.enabled) return;
 
-// Replace/update every 1 minute
-setInterval(() => {
-  sendText("periodic_update");
-}, 60_000);
+      const initial = (res.initialDelay ?? 10) * 1000;
+      const autosave = (res.autosaveDelay ?? 60) * 1000;
+
+      clearTimers();
+
+      initialTimeout = setTimeout(() => capture("initial"), initial);
+      autosaveInterval = setInterval(() => capture("periodic"), autosave);
+
+      console.log("Timers started");
+    }
+  );
+}
+function extractCleanText() {
+  if (!document.body) return "";
+
+  // Clone DOM so we don't modify the page
+  const clone = document.body.cloneNode(true);
+
+  // Remove common semantic elements
+  clone.querySelectorAll(
+    "nav, footer, header, aside, script, style, noscript"
+  ).forEach(el => el.remove());
+
+  // Remove by class (add as needed)
+  const bannedClasses = [
+    "navbar",
+    "nav",
+    "sidebar",
+    "footer",
+    "header",
+    "menu",
+    "ads",
+    "advertisement"
+  ];
+
+  bannedClasses.forEach(cls => {
+    clone.querySelectorAll(`.${cls}`).forEach(el => el.remove());
+  });
+
+  return clone.innerText;
+}
+function extractCleanHTML() {
+  const clone = document.documentElement.cloneNode(true);
+
+  clone.querySelectorAll(
+    "nav, footer, header, aside, script, style, noscript"
+  ).forEach(el => el.remove());
+
+  return "<!DOCTYPE html>\n" + clone.outerHTML;
+}
+
+function capture(reason) {
+  chrome.runtime.sendMessage({ type: "IS_ACTIVE_TAB" }, (res) => {
+    if (!res?.active) return;
+
+    const content = document.body ? extractCleanText() : "";
+
+    chrome.runtime.sendMessage({
+      type: "PAGE_CAPTURE",
+      url: location.href,
+      title: document.title,
+      content,
+      size: content.length,
+      reason
+    });
+
+    console.log("Captured:", reason);
+  });
+}
+
+// Initial focus check
+chrome.runtime.sendMessage({ type: "IS_ACTIVE_TAB" }, (res) => {
+  if (res?.active) setupTimers();
+});
+
+// React to focus / settings changes
+chrome.storage.onChanged.addListener(() => {
+  clearTimers();
+  chrome.runtime.sendMessage({ type: "IS_ACTIVE_TAB" }, (res) => {
+    if (res?.active) setupTimers();
+  });
+});

@@ -1,45 +1,77 @@
-console.log("Background service worker started");
+console.log("Background started");
 
-function identifySite(url) {
-  try {
-    const host = new URL(url).hostname;
-    if (host.includes("youtube.com")) return "youtube";
-    if (host.includes("medium.com")) return "medium";
-    if (host.includes("github.com")) return "github";
-    return "generic";
-  } catch {
-    return "generic";
+let activeTabId = null;
+
+// Track focused tab
+chrome.tabs.onActivated.addListener(({ tabId }) => {
+  activeTabId = tabId;
+});
+
+chrome.windows.onFocusChanged.addListener((windowId) => {
+  if (windowId === chrome.windows.WINDOW_ID_NONE) return;
+  chrome.tabs.query({ active: true, windowId }, (tabs) => {
+    if (tabs[0]) activeTabId = tabs[0].id;
+  });
+});
+
+// Answer focus queries
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
+  if (msg.type === "IS_ACTIVE_TAB") {
+    sendResponse({ active: sender.tab?.id === activeTabId });
+    return;
   }
-}
 
-function makeFilename(url) {
-  const u = new URL(url);
-  const date = new Date().toISOString().slice(0, 10);
-  const site = identifySite(url);
+  if (msg.type !== "PAGE_CAPTURE") return;
 
-  let slug = u.pathname
-    .replace(/\/+/g, "_")
-    .replace(/[^a-zA-Z0-9_]/g, "");
+  chrome.storage.local.get(
+    ["enabled", "sizeThreshold", "forceSave", "pageState"],
+    (res) => {
+      if (!res.enabled) return;
 
-  if (!slug || slug === "_") slug = "home";
+      const threshold = (res.sizeThreshold ?? 5) * 1024;
+      const pageState = res.pageState ?? {};
+      const prev = pageState[msg.url];
 
-  return `${date}__${site}__${slug}.txt`;
-}
+      let shouldSave = false;
 
-chrome.runtime.onMessage.addListener((message) => {
-  if (message.type !== "PAGE_TEXT") return;
+      if (!prev) {
+        shouldSave = true;
+      } else if (res.forceSave) {
+        shouldSave = true;
+      } else if (Math.abs(msg.size - prev.size) >= threshold) {
+        shouldSave = true;
+      }
 
-  const filename = makeFilename(message.url);
+      if (!shouldSave) {
+        console.log("Skipped (no significant change)");
+        return;
+      }
 
-  console.log(
-    `Downloading (${message.reason}) → ${filename}`,
-    "length:",
-    message.textLength
+      // Save metadata
+      pageState[msg.url] = {
+        size: msg.size,
+        savedAt: Date.now()
+      };
+
+      chrome.storage.local.set({ pageState });
+
+      saveData(msg);
+    }
   );
+});
+
+function saveData(payload) {
+  const date = new Date().toISOString().slice(0, 10);
+  const slug = payload.url
+    .replace(/https?:\/\//, "")
+    .replace(/[^a-zA-Z0-9]/g, "_")
+    .slice(0, 80);
+
+  const filename = `${date}__${slug}.txt`;
 
   const dataUrl =
     "data:text/plain;charset=utf-8," +
-    encodeURIComponent(message.text);
+    encodeURIComponent(payload.content);
 
   chrome.downloads.download({
     url: dataUrl,
@@ -47,4 +79,6 @@ chrome.runtime.onMessage.addListener((message) => {
     conflictAction: "overwrite",
     saveAs: false
   });
-});
+
+  console.log("Saved:", filename);
+}

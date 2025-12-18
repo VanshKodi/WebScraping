@@ -1,8 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Minimal Auto Save HTML",
+  "name": "Focused Tab Auto Save",
   "version": "0.1",
-  "description": "Auto-saves raw HTML of visited pages for later processing.",
+  "description": "Auto-saves content only from the currently focused tab.",
+
+  "action": {
+    "default_popup": "popup.html"
+  },
 
   "background": {
     "service_worker": "background.js"
@@ -17,7 +21,9 @@
   ],
 
   "permissions": [
-    "downloads"
+    "downloads",
+    "storage",
+    "tabs"
   ],
 
   "host_permissions": [
