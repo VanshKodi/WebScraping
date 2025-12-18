@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Minimal Auto Save HTML",
+  "version": "0.1",
+  "description": "Auto-saves raw HTML of visited pages for later processing.",
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+
+  "permissions": [
+    "downloads"
+  ],
+
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
