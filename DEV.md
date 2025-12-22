@@ -14,6 +14,12 @@ Initial set up is done now core logic should be
 3. data saving must be blackboxed, other users might want whole html instead of text
 4. Maby tooltips for settings
  
-### so basic pipeline
-1. content.js checks if extension is enabled(default is disabled)
+# Extension is polished enough, now chatbot ui
+1. Make my own ui
+2. Use opensource ui
+
+Openwebui seems not a good option
+
+## scraping idea to make ui , focusing on document vectorizations
+
 

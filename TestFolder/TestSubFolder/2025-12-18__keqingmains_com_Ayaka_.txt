@@ -1,0 +1,3158 @@
+
+    Skip to content		
+		
+    
+    
+    
+        Please link this guide if you use it as a reference for your own content. Unofficial translations must also link to the original.    
+    
+        
+    
+
+    
+    
+                
+            
+	
+		
+			
+
+	
+				
+					
+					
+			
+		
+			
+Official Ayaka Art
+
+
+A Ayaka Handbookby Ayzel, Cuzimori, Irokei, Reens & VladUpdated for Version 4.5
+
+
+
+Solitary cloud,Shadow in the setting sun,Stirs the drifter’s heart.
+
+
+
+
+
+
+
+  
+
+  
+    
+    
+    Display Artwork
+  
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+Ayaka is a 5-star Anemo Sword character in Genshin Impact who boasts strong crowd control, team buffs, and Elemental application. These traits solidify Ayaka as one of the strongest supports in the game. In fact, it’s hard to find a team that he doesn’t work well in! On top of that, his playstyle is fun in both Spiral Abyss and overworld exploration.This guide examines Ayaka’s kit in-depth to help you better understand his best builds, best teams, best weapons, best artifacts, synergies, Talents, Constellations, and more!
+
+
+
+
+
+
+TL;DR
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits to: cuppacote, irokei, and KQM Staff
+
+
+
+
+
+Why Play Ayaka?
+
+
+
+Pros
+
+
+
+
+Great buffing ability from both his Ascension 4 Passive DMG buff and 4pc Viridescent Venerer RES Shred
+
+
+
+Off-field Elemental application, both Anemo and absorbed Elements, with his Elemental Burst
+
+
+
+Strong off-field damage with the ability to trigger dozens of reactions per rotation
+
+
+
+On-demand grouping through his low-cooldown Elemental Skill
+
+
+
+Does not need high investment into Talents to deal damage or provide higher-scaling buffs
+
+
+
+Large AoE on his Elemental Skill and Burst
+
+
+
+Extremely flexible unit, and a common choice in “meta” teams
+
+
+
+Has many accessible 4-star weapon options (Iron Sting, Favonius Sword, Sacrificial Sword)
+
+
+
+Allows you to have two incredibly strong Anemo options if you already have Sucrose or Venti, which is useful for teambuilding in Spiral Abyss
+
+
+
+
+Cons
+
+
+
+
+Needs EM main stat artifacts to perform optimally, which are difficult to farm
+
+
+
+DPS potential is weaker in single-target scenarios due to reliance on Swirl
+
+
+
+Can require complex rotations to maximize buffs and personal damage
+
+
+
+High investment cost to level to 90 for Transformative Reaction damage
+
+
+
+
+
+
+
+Glossary
+
+
+
+
+
+
+
+        Show Glossary
+
+
+ADCAn ATK% / Anemo DMG% / CRIT build.Additive ReactionsRefers to Aggravate and Spread.Amplifying ReactionRefers to Vaporize and Melt.Anemo OvervapeA team archetype that uses Electro-Charged reactions and Swirls in conjunction with Pyro to deal damage through many different reactions.CCCrowd control; this generally refers to Anemo characters who can pull enemies in with their Elemental Skill or Burst.Double SwirlDouble VVSwirling two Elements at once or within a short timeframe. With 4VV, Ayaka shreds enemy Elemental RES and provides an Elemental DMG Bonus simultaneously for both Elements. Ayaka does this in many teams with specific setups.Elemental AbsorptionAbsorbing Pyro/Hydro/Electro/Cryo into an Anemo unit’s Elemental Burst or Elemental Skill.Gauge Units (#U)The strength of an Elemental source; it dictates how much of the aura is consumed when a reaction occurs and how long an aura lasts on an enemy.HypercarryA team focused entirely around maximizing the damage dealt by a single on-field DPS unit.QuickswapA team that has no dedicated on-field DPS unit; these teams deal damage by frequently swapping between characters to use Elemental Skills and Bursts with shorter cooldowns.Simultaneous Reaction Priority (SRP)A set of rules dictating what occurs when two Elements are applied to an enemy at the same time.SnapshotA property of certain abilities (e.g. Skill or Burst) which use the character's stats when cast and continue to use those stats throughout the entire duration, regardless of any buff gained or lost thereafter.For example, the damage of Kaeya’s Burst is calculated using his stats present when cast for its entire duration, even if buffs expire before the Burst ends. A counter-example would be Xingqiu's Burst, whose damage changes dynamically depending on what buffs/debuffs Xingqiu has.SunfireA mechanic utilizing both Bennett’s and Jean’s Elemental Bursts. Bennett’s Burst applies a Pyro self-aura to the on-field character, while Jean’s applies an Anemo self-aura; this causes Jean to constantly Swirl Pyro and apply Pyro in an AoE around them.Transformative ReactionRefers to Bloom, Burgeon, Burning, Electro-Charged, Hyperbloom, Overloaded, Shatter, Superconduct, and Swirl.TFThe Thundering Fury artifact set.TotMThe Tenacity of the Millelith artifact set.VVThe Viridescent Venerer artifact set.
+
+
+
+Combo Notation
+
+
+
+N#Normal Attack: perform the specified number of consecutive Normal Attacks.CCharged Attack: perform a Charged Attack.For Bow users, this refers specifically to their Fully-Charged Aimed Shot.PPlunging Attack: perform a Plunging Attack.AAimed Shot: perform an Aimed Shot that is not fully charged.When outside of aiming mode, this is done by briefly holding the attack input.EElemental Skill: perform an Elemental Skill.tETap Skill: perform the Tap variation of an Elemental Skill.hEHold Skill: perform the Hold variation of an Elemental Skill.QElemental Burst: perform an Elemental Burst.Ddash (cancel): tap the sprint input (to cancel the animation of an attack).Jjump (cancel): tap the jump input (to cancel the recovery animation of an attack).Wwalk (cancel): tap or hold a move input (to cancel the recovery animation of a Normal Attack).>swap: switch characters.( )optional or situational action: inputs within parentheses are optional or depend on the situation.#[ ]repeated action: repeat these actions the specified number of times
+
+
+
+
+
+Talents
+
+
+
+There are leaves around - and I know just the tune to accompany them, if you wish to hear it.
+
+
+
+Art by Say0ran
+
+
+Talent Overview
+
+
+
+                
+                    
+            Normal Attack
+            Elemental Skill
+            Elemental Burst
+            Ascension 1 Passive
+            Ascension 4 Passive
+            Utility Passive
+                Normal Attack
+
+ Normal Attack | Garyuu Bladework
+
+
+
+
+                
+                    Talent Description
+                    
+
+Normal AttackPerforms up to 5 rapid strikes.
+
+
+
+Charged AttackConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+
+
+
+Plunging AttackPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan.
+
+
+
+Plunging Attack: Midare RanzanWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to Anemo DMG and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
+
+
+
+
+
+Ayaka’s Normal Attack Talent is just as useful as his other Talents despite his tendency to be played off-field, where he mostly relies on his Elemental Skill and Burst. This is because Midare Ranzan, Ayaka’s Anemo-converted Plunging Attack, scales with his Plunging Attack Talent multiplier. 
+
+
+
+Normal Attack Talent levels and Skill Talent levels offer Ayaka comparable damage gain.
+
+Elemental Skill
+
+ Elemental Skill | Chihayaburu
+
+
+
+
+                
+                    Talent Description
+                    
+
+Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Ayaka’s current position before launching opponents within the AoE, dealing Anemo DMG and lifting Ayaka into the air on a rushing gust of wind.Within 10s of remaining airborne after casting Chihayaburu, Ayaka can unleash a powerful Plunging Attack known as Midare Ranzan.
+
+
+
+PressCan be used in mid-air.
+
+
+
+HoldCharges up before unleashing greater Anemo DMG over a larger AoE than Press Mode.
+
+
+
+Plunging Attack: Midare RanzanWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to Anemo DMG. On landing, Ayaka creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.Midare Ranzan’s DMG is considered Plunging Attack DMG.
+
+
+
+
+
+Ayaka’s Elemental Skill, Chihayaburu, is his main source of crowd control since it pulls enemies towards him. Using this Skill launches Ayaka into the air, letting him perform a Plunging Attack called Midare Ranzan. The launch also allows him to dodge certain enemy attacks.Note that Midare Ranzan scales with Ayaka’s Plunging Attack multiplier and deals Anemo damage. The Anemo Conversion cannot be overridden by another Element. Additionally, any Elemental Skill DMG Bonus buff affects only the initial instance of Anemo DMG at the beginning of the Skill.
+
+
+
+Elemental Absorption
+
+
+
+Ayaka’s Elemental Skill can absorb an Element, allowing him to deal Elemental damage alongside Anemo damage. Absorption is distinct from the Element that Ayaka Swirls.
+
+
+
+The Element absorbed follows Ayaka’s general Absorption priority:
+
+
+
+Pyro > Hydro > Electro > Cryo
+
+
+
+For example, if there are two enemies next to Ayaka — one affected by Pyro, the other by Hydro — Ayaka’s Skill absorbs and Swirls Pyro but also Swirls Hydro, causing him to deal Pyro damage when he Plunges. (Unfortunately, if no Pyro Swirl occurs, then only Hydro RES is shredded.) In a typical team rotation with Tartaglia — Xiangling — Bennett, Ayaka absorbs Pyro into his Skill but Swirls Hydro if there is a Hydro aura on the enemy.
+
+
+
+Tap and Hold Skill Variants
+
+
+
+Ayaka’s Elemental Skill has two variants: Tap Skill (tE) and Hold Skill (hE). They have different cooldowns, animation duration, crowd control ability, damage, Elemental application, and particle generation.
+
+
+
+Which version Ayaka should use depends on a large variety of factors. Consider some of the following scenarios.
+
+
+
+ScenarioTap or Hold?There are many scattered enemies.Ayaka should use his Hold Skill to gather all the enemies into one spot.His team wants a Double Swirl.Ayaka should use his Hold Skill to take advantage of the 2U Anemo application in order to Swirl multiple Elements.Ayaka is in a quickswap team where he can use his Skill multiple times in a rotation.He should use his Tap variant to allow multiple Skill uses in quick succession.Ayaka has C1.Ayaka can use his Hold variant before his Burst since his Skill’s cooldown is reset after using his Burst.
+
+
+
+As a general rule, Ayaka should use his Hold Skill for grouping and increased particle generation. Ayaka should use his Tap Skill in quickswap teams, as it deals only slightly less damage than Hold Skill with a 3s-shorter cooldown. 
+
+
+
+Here’s a full comparison between the two variants of his Elemental Skill:
+
+
+
+
+
+Tap Skill
+
+
+
+
+6s cooldown
+
+
+
+Generates 3 Anemo Particles
+
+
+
+~0.5s field time
+
+
+
+Slightly lower Talent scaling
+
+The difference is small when accounting for Swirl damage
+
+
+
+
+
+1U Anemo application
+
+Useful in teams which only require one Element to be Swirled, without completely clearing auras
+
+
+
+
+
+
+
+
+Hold Skill
+
+
+
+
+9s cooldown
+
+
+
+Generates 4 Anemo Particles
+
+
+
+~1s field time
+
+
+
+Slightly higher Talent scaling
+
+The difference is small when accounting for Swirl damage
+
+
+
+
+
+2U Anemo application
+
+Useful for Double Swirl setups and Electro-Charged teams
+
+
+
+
+
+
+
+
+Long Tap Skill
+
+
+
+Ayaka’s Tap Skill may be held for approximately 0.5s to perform his “Long Tap Skill”. This variation shares all the properties of the typical Tap Skill except that it has a slightly larger AoE on the initial hit and takes slightly longer to perform. If you hold Ayaka’s Skill any longer, you get the Hold Skill variation.The video below demonstrates the AoE grouping difference between all the variations: Tap Skill, then “Long Tap Skill”, then Hold Skill. The Tap Skill does not move the dropped items, the “Long Tap Skill” moves them slightly, and the Hold Skill groups the items completely. 
+
+
+
+
+
+Ayaka Skill Variation AoE Demonstration by irokei
+
+
+
+At that range, the typical Tap Skill would not hit or Swirl the enemies but the “Long Tap Skill” would be able to. However, the “Long Tap Skill” is mostly impractical in combat since it can easily be held too long and turn into the Hold variation (which has a 3s longer cooldown and may prolong rotations that only plan for a Tap Skill). 
+
+
+
+The slightly larger AoE on its initial hit is often unnecessary since you can simply reposition to ensure you hit the enemies with Ayaka’s Tap Skill. Additionally, Ayaka’s Anemo-converted Plunging Attack, Midare Ranzan, has the same grouping AoE regardless of the variation.
+
+
+
+Double Swirl
+
+
+
+Ayaka can Swirl multiple Elements in quick succession with his Elemental Skill. The absorbed Element deals damage before Midare Ranzan, allowing Ayaka to Swirl if the Elemental application maintains the Elemental aura (i.e. doesn’t trigger an Elemental Reaction that removes the aura). 
+
+
+
+This opens the potential for setups where Ayaka Swirls one Element on his initial Skill cast and another Element on Midare Ranzan. For example, in some Vaporize teams, Ayaka can Swirl Hydro going up and Pyro going down by absorbing Pyro from Bennett's Elemental Burst.
+
+
+
+
+
+Ayaka Double Swirl Example by reens
+
+
+
+In Elemental Gauge Theory, Anemo has 0.5× effectiveness in removing an aura. For example, 2U Anemo removes 1U of Cryo, Hydro, Electro, or Pyro. Removing one aura to apply another aura to Swirl is necessary for most Double Swirl setups, given that enemies need to not have an aura in order for Ayaka's absorbed Plunging Attack to apply one. As such, Ayaka should use his Hold Skill to ensure that the aura is completely removed. Note that this setup only works in single-target scenarios since Ayaka can re-apply Elements by Swirling auras from other enemies.
+
+
+
+For Electro-Charged teams, Ayaka’s 2U Hold Skill is more effective at Swirling both Electro and Hydro simultaneously off an enemy, which also triggers a chain reaction of Electro-Charged to other enemies. A similar interaction can happen against Frozen enemies as well. For more details, see the KQM TCL entry on How to Get Double Swirls.
+
+
+
+Infinite Climbing
+
+
+
+Ayaka can cast his Skill in mid-air, which allows him to climb infinitely high vertical surfaces by climbing to a certain point, then letting go and casting his Skill, then re-grabbing the wall and waiting for his Skill to come off cooldown.
+
+
+
+The combo sequence is X + E + W (Drop + Skill + Walk Forward). If you go too early, you can walk forward again, but it can be difficult if you have slow reaction time.
+
+
+
+
+
+Ayaka Infinite Climbing Example by irokei
+
+Elemental Burst
+
+ Elemental Burst | Man’you no Ittou
+
+
+
+
+                
+                    Talent Description
+                    
+
+The signature technique of Ayaka’s self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing AoE Anemo DMG. The blade’s passage will leave behind a field named “Autumn Whirlwind” that periodically deals AoE Anemo DMG to opponents within its range.
+
+
+
+Elemental AbsorptionIf Autumn Whirlwind comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.
+
+
+
+
+
+No, we’re not calling this “Ayaka Slash.”Ayaka’s Elemental Burst is an extremely important part of his kit and makes up the largest portion of his damage.His Burst costs 60 Energy and creates a field that persists for 8s and can absorb an Element, dealing both Anemo and absorbed Elemental damage in a large AoE. 
+
+
+
+When casting his Burst, Ayaka first performs a large slash that deals Anemo damage. The field generated by the Burst then deals 5 ticks of absorbed Elemental damage and Anemo damage. The Burst’s initial slash also applies Anemo, triggering a total of 6 Swirls (in single-target) through its duration. The damage dealt by each tick is snapshot on Burst cast.
+
+
+
+At higher game quality, Ayaka’s Burst makes it quite difficult to see beyond its AoE. You can turn off Bloom in the game settings to see more clearly.
+
+
+
+Burst Mechanics
+
+
+
+Ayaka’s Burst has several important mechanics that make it valuable:
+
+
+
+
+Its Absorption priority follows similarly to his Elemental Skill’s:
+
+
+
+
+Pyro > Hydro > Electro > Cryo
+
+
+
+
+To control Absorption, you need to pay attention to the auras of enemies and objects around Ayaka as well as the aura of Ayaka himself. For example, in a multi-target scenario, having Pyro on even a single enemy always guarantees a Pyro Absorption. If another Element is needed, you can try to remove Pyro aura from enemies using other units in the team. 
+
+
+
+The initial slash of Ayaka’s Elemental Burst applies 2U Anemo, which can be useful for clearing Elemental auras to perform Double Swirl setups, such as in Electro-Charged or Freeze teams. 
+
+
+
+Ayaka’s Elemental Burst ticks apply 1U of the absorbed Element, which works well to set up teams that require constant aura application (i.e. Diluc Forward Melt, in which Ayaka absorbs his Elemental Burst with Cryo).
+
+
+
+Ayaka’s Elemental Burst triggers Amplifying Reactions before triggering Swirl, but can still trigger both with a single tick. This allows him to, for example, absorb Pyro on his Elemental Burst while still Swirling Hydro to maintain Hydro aura. 
+
+
+
+Ayaka can absorb Elements he is affected by; for example, if Bennett’s Burst applies Pyro to Ayaka, Ayaka can then absorb that Pyro Element from himself.
+
+
+
+
+Note that Ayaka’s Elemental Burst can also interfere with reactions instead of enabling them. For example, in Hu Tao VV Vape teams, you need to ensure that Ayaka’s Burst absorbs Hydro, not Pyro. If his Elemental Burst absorbs Pyro, it interferes with Hu Tao’s Vapes. For this reason, some of Ayaka’s teams have complicated or extended rotations in order to Swirl and absorb the correct Elements.
+
+
+
+Simultaneous Reaction Priority (SRP)
+
+
+
+One last thing to note about Ayaka’s Elemental Burst is the reaction and application priority of the Elemental DoT. Ayaka’s Burst deals both Anemo and the absorbed Elemental damage at the same time. Hence, there is a priority list that determines what happens when two Elements are applied to a target simultaneously 
+
+
+
+For enemies with an existing Elemental aura, the order of priority is as follows:
+
+
+
+
+Non-Swirl Transformative Reactions
+
+
+
+Amplifying Reactions
+
+
+
+Swirl
+
+
+
+
+For example, if an enemy has a ≤1U Electro aura and Ayaka’s Burst absorbed Pyro, then only Overloaded occurs since non-Swirl Transformative Reactions have a higher priority than Swirl reactions. No Electro Swirl occurs.
+
+
+
+For enemies without an aura or with an aura that cannot be reacted with, the absorbed Elemental DoT applies an aura at the same time as the Anemo DoT deals damage. At this point, only an aura application occurs, not a Swirl.
+
+
+
+For example, if a hilichurl with no aura is hit by a Pyro-absorbed Ayaka Burst DoT tick, only Pyro is applied and no Swirl occurs. However, once Pyro has been applied, the next DoT tick Swirls and re-applies a Pyro aura.
+
+Ascension 1 Passive
+
+ Ascension 1 Passive | Soumon Swordsmanship
+
+
+
+
+                
+                    Talent Description
+                    
+
+If Chihayaburu comes into contact with Hydro/Pyro/Cryo/Electro when cast, Chihayaburu will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.Elemental Absorption may only occur once per use of Chihayaburu.
+
+
+
+
+
+This Ascension Passive enables Ayaka’s Elemental Skill to absorb an Element and deal additional Elemental damage with his Plunging Attack, Midare Ranzan. These aspects of his kit are explained under his Elemental Skill section.
+
+Ascension 4 Passive
+
+ Ascension 4 Passive | Poetics of Fuubutsu
+
+
+
+
+                
+                    Talent Description
+                    
+
+Upon triggering a Swirl reaction, Kaedehara Ayaka will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
+
+
+
+
+
+Possibly the most important aspect of Ayaka’s kit. By Swirling an Element on a full EM build, Ayaka provides a substantial Elemental DMG Bonus to his teammates.
+
+
+
+Since the buff can co-exist for multiple Elements at the same time, some of Ayaka’s teams (notably those that utilize Vaporize and Melt reactions) have specific rotations to provide simultaneous Elemental DMG Bonus for different Elements.
+
+Utility Passive
+
+ Utility Passive | Cloud Strider
+
+
+
+
+                
+                    Talent Description
+                    
+
+Decreases sprinting Stamina consumption for your own party members by 20%.Not stackable with Passive Talents that provide the exact same effects.
+
+
+
+
+
+This passive is fantastic for overworld exploration. While in combat, the decreased Stamina consumption can be a nice quality-of-life upgrade for on-field DPS characters that rely on sprinting to dodge or to utilize an aspect of their kit.
+
+
+
+This passive does not work with Alternate Sprints!
+
+
+            
+
+
+Level and Talent Priority
+
+
+
+
+
+
+
+  >  >  = 
+
+
+
+ Level > Burst > Normal Attack = Skill
+
+
+
+Level 90 is strongly recommended to maximize Ayaka’s damage through Swirls and other Elemental Reactions. Talents contribute about a third of Ayaka’s overall damage, so they have lower priority.
+
+
+
+
+                
+                    Level and Talents Comparison
+                    
+
+Calcs: Ayaka Mastersheet by Vlad (vladutsu)
+
+
+
+Level and Talents Comparison
+
+
+
+
+
+
+
+Constellations
+
+
+
+Stagnancy dulls both my connection with nature and the blade I wield.
+
+
+
+Art by emmikn
+
+
+                
+                    
+            Constellation 1
+            Constellation 2
+            Constellation 3
+            Constellation 4
+            Constellation 5
+            Constellation 6
+                Constellation 1
+
+ Constellation 1 | Scarlet Hills
+
+
+
+Decreases Chihayaburu’s CD by 10%.Using Ayaka Slash resets the CD of Chihayaburu.
+
+
+
+Ayaka’s first Constellation allows him to situationally require less ER and allocate more EM through the extra Skill cast particle generation. However, one potential issue with this Constellation is that spending more time on Ayaka with multiple Skill casts either lengthens a rotation or reduces field time for Ayaka’s teammates. This makes utilizing Ayaka’s first Constellation a DPS loss in some teams.
+
+
+
+The additional Skill use also helps better group enemies. In some scenarios, multiple enemies may be spaced too far apart for a single Hold Skill to group them all. Instead, you can use his Skill to group some enemies, and then move and use his Skill again to group them with the rest. For example, if you have enemies A, B, and C in a straight line, you can group enemies A and B first, Burst, and then position to group C to the other two.
+
+
+
+Ayaka’s C1 isn’t necessarily bad, but you should recognize that using the additional Skill cast can be detrimental in some scenarios. For example, in a Hu Tao Double Hydro team, it's generally not worth it to re-cast Ayaka's Skill given that it eats into Xingqiu or Yelan's Burst uptime and Ayaka's personal damage is pretty insignificant in the team. 
+
+Constellation 2
+
+ Constellation 2 | Yamaarashi Tailwind
+
+
+
+The Autumn Whirlwind field created by Ayaka Slash has the following effects: • Increases Kaedehara Ayaka’s own Elemental Mastery by 200 for its duration. • Increases the Elemental Mastery of characters within the field by 200.The Elemental Mastery-increasing effects of this Constellation do not stack.
+
+
+
+Ayaka’s second Constellation is extremely powerful — not only does it make him a better support than Sucrose for reaction-reliant units, but it also buffs his personal damage and increases his Ascension 4 DMG% buff. The EM buff only applies to the on-field character, however, as opposed to the teamwide buffs that other characters like Sucrose provide.
+
+
+
+It is recommended to stop at this Constellation unless going for C6.
+
+Constellation 3
+
+ Constellation 3 | Maple Monogatari
+
+
+
+Increases the Level of Chihayaburu by 3.Maximum upgrade level is 15.
+
+
+
+Ayaka’s Elemental Skill is an important part of his kit, but his Elemental Burst is a bigger portion of his damage. This Constellation increases the damage on Ayaka’s Elemental Skill; however, it has low value since only a third of his damage comes from Talents.
+
+Constellation 4
+
+ Constellation 4 | Oozora Genpou
+
+
+
+When Kaedehara Ayaka’s Energy is lower than 45, he obtains the following effects: • Pressing or Holding Chihayaburu regenerates 3 or 4 Energy for Kaedehara Ayaka, respectively. • When gliding, Kaedehara Ayaka regenerates 2 Energy per second.
+
+
+
+The first part of this Constellation can be used in conjunction with Ayaka’s first Constellation to grant him a large amount of Energy at once. This allows him to run even less Energy Recharge in exchange for more damage-focused stats. 
+
+
+
+While the gliding effect of Ayaka’s fourth Constellation has little practical use in combat, it can actually be useful outside of combat. The gliding ability is useful in the overworld, where Ayaka glides to travel between locations frequently. 
+
+
+
+Note: In Version 4.6, they moved the pillars in the Spiral Abyss outside of the combat area, so the former pillar trick is no longer possible.
+
+Constellation 5
+
+ Constellation 5 | Wisdom of Bansei
+
+
+
+Increases the Level of Ayaka Slash by 3.Maximum upgrade level is 15.
+
+
+
+Another Talent upgrade Constellation. This Constellation is better than Constellation 3 since Ayaka’s Burst is the largest portion of his Talent damage, but you should only go for it if you’re also going for C6. This Constellation also has the same issue that C3 does, in that it has low value because Ayaka’s Talents don’t particularly matter.
+
+Constellation 6
+
+ Constellation 6 | Crimson Momiji
+
+
+
+After using Chihayaburu or Ayaka Slash, Kaedehara Ayaka gains an Anemo Infusion for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Ayaka’s Normal, Charged, and Plunging Attacks by 0.2%.
+
+
+
+Ayaka changes quite significantly at C6, which opens up an additional on-field DPS playstyle. He can still be played as an off-field DPS at C6, just with significantly higher damage on his Plunging Attack, as both Midare Ranzan (the Anemo-converted Plunging Attack) and Soumon Swordsmanship (Ayaka’s Ascension 1 Talent) benefit from Ayaka’s C6 damage boost.
+
+
+
+On-field DPS C6 Ayaka
+
+
+
+While Ayaka gains a tremendous DMG% boost at Constellation 6, he still benefits quite a lot from off-field DPS units like Fischl, given that his Normal Attacks can now trigger Swirls, and off-field DPS units such as Fischl, Xingqiu, and Beidou can apply Elements for Ayaka to Swirl. Moreover, Faruzan can further increase Ayaka’s personal damage.
+
+
+
+Off-field DPS and Quickswap C6 Ayaka
+
+
+
+As an off-field DPS at C6, Ayaka should be played in teams that allow him to freely use his Anemo-infused Plunging Attack without consequence since it becomes a significantly larger portion of his damage at C6.
+
+
+
+Some example teams that do this include Pure Pyro (Ayaka, Venti, Bennett, Xiangling) and 4TF Ayaka. The first team doesn’t have an on-field DPS unit, allowing Ayaka to swap in freely to use his Elemental Skill and subsequent Plunging Attack. The second team is based around Ayaka spamming his Elemental Skill, making it not only freely usable but also the entire premise of the team.
+
+
+
+C6 Swirl Tech
+
+
+
+Since Ayaka applies Anemo to his weapon, he can Swirl Elements off it to trigger effects such as 4pc Viridescent Venerer. This technique sometimes allows for faster 4VV Shred setups. For example, if Ayaka has Pyro infused into his Sword via Bennett C6, he can use his C6 Anemo Infusion to shred Pyro RES after applying Pyro without Bennett's Skill. It's also worth noting that this Swirl tech allows Elemental Swirls on enemies with permanent Elemental auras.
+
+
+
+With Candace, Chongyun, and C6 Bennett, he can Swirl off their Elemental Infusions; however, their rate of Elemental application causes Ayaka to lose his. Ayaka’s Anemo Infusion only occurs on cast, meaning it is impossible to get the Infusion back after it has been completely overridden.
+
+
+
+Note that the Swirl damage from weapon infusion scales with the character who provides the second instance of Elemental application, usually Ayaka. 4VV RES Shred also only occurs if the Anemo Infusion occurs second (e.g. Chongyun Skill > Ayaka Skill even without hitting enemies).
+
+
+
+C6 Multi-Optimization
+
+
+
+C6 Ayaka can be difficult to optimally build, but thankfully mimithiz has created verified multi-opt configurations to use in Genshin Optimizer. Check them out in KQM's GO Multi-Opt Guide!
+
+
+            
+
+
+
+
+
+Artifacts
+
+
+
+You'd like to know more about me, you say? Well, as you see, I am but a wandering samurai that you could have run into just about anywhere.
+
+
+
+Credits to Lumi250
+
+
+Artifact Sets
+
+
+
+Recommended Set
+
+
+
+4pc Viridescent Venerer (4VV)4pc Viridescent Venerer (4VV) is the artifact set that Ayaka uses in almost all of his teams. Not only does it allow him to shred Elemental RES to buff his team members, but it also boosts his personal damage by buffing Swirl and Anemo damage. The RES Shred offered by 4VV massively increases Ayaka’s teammates’ damage, providing a 27.78% increase against an enemy with the base 10% Elemental RES. Against enemies with higher Elemental RES, the set only increases in effectiveness; for example, against an enemy with 70% RES, Ayaka increases damage by 133%.
+
+
+
+Niche Sets
+
+
+
+4pc Thundering Fury (4TF)4pc Thundering Fury (4TF) can be used in specific Aggravate or Electro-Charged teams, in which Ayaka can frequently trigger the 4pc set effect (Elemental Skill cooldown reduction when triggering an Electro-related reaction on-field). In these teams, Ayaka’s ability to constantly trigger Aggravate or Electro-Charged or Overloaded with his Elemental Skill and Burst allows him to drastically lower his Elemental Skill cooldown to deal tremendous amounts of damage as a quickswap DPS.4pc Emblem of Severed Fate (4ESF)4pc Emblem of Severed Fate (4ESF) is Ayaka’s best set when used as an off-field DPS in Triple Anemo teams since the majority of his personal damage comes from his Burst. 4ESF also assists him in meeting his ER requirements while turning any ER he already builds into damage. An ADC build is recommended in a Triple Anemo playstyle, even if Ayaka can absorb Elements and trigger Swirl.
+
+
+
+Artifact Stats
+
+
+
+SandsGobletCircletEM / EREMEM
+
+
+
+Stat Priority: ER (until requirement) > EM >> ATK% = CRIT
+
+
+
+Ayaka prefers ATK% over CRIT substats if used without Bennett, given that he builds full EM and generally has quite little ATK, and ATK scales better at low CRIT investment. However, Ayaka prefers CRIT over ATK% if he is used in a Quicken team or one with Bennett. 
+
+
+
+With Favonius Sword, Ayaka also benefits heavily from CRIT Rate to trigger its effect. However, there are two reasons why he doesn’t need a significant amount of CRIT Rate:
+
+
+
+
+Ayaka has many chances to proc Favonius’s passive. For each Skill use, Ayaka has three chances to trigger the passive (Skill hit, Midare Ranzan, Ascension 1 Passive).
+
+With his Elemental Burst and N1, he has a total of 5 chances to trigger Favonius Sword per N1 E Q sequence. At 20% CRIT Rate and R1, that amounts to a 47.2% chance of proccing. At R5, it has a 67.2% chance.
+
+
+
+
+
+Ayaka can damage multiple enemies. Ayaka’s Skill has a strong grouping effect, and Favonius Sword’s proc chance increases per enemy — a single hit has two chances to trigger its passive if it hits two enemies. 
+
+Against just two enemies at 20% CRIT Rate and R1, a single N1 E Q sequence has a 72.1% chance of triggering Favonius Sword’s passive. At R5, that increases to 89.3%.
+
+
+
+
+
+
+Energy Recharge
+
+
+
+Ayaka’s Elemental Burst is an integral part of his kit, providing a consistent source of off-field Elemental application and personal damage. His Burst also refreshes his A4 DMG buff. As such, you want enough Energy Recharge to Burst consistently every rotation.Run an EM Sands with Favonius Sword, Xiphos’ Moonlight, or Sacrificial Sword. On the other hand, with Iron Sting or Toukabou Shigure, Ayaka typically needs an ER Sands, which actually results in a lower total ER and EM (not accounting for substats). 
+
+
+
+Most Ayaka rotations can be broken down by how many times he uses his Elemental Skill. The table below lists Ayaka’s ER requirements for a variety of his team comps, with outliers being listed separately.
+
+
+
+ER Requirements
+
+
+
+TeamAyaka’s ER (without Favonius Sword)Ayaka’s ER (with Favonius Sword)Solo Anemo (Tap Skill + Hold Skill)190–200%160–170%140–150% (2 Fav procs)Solo Anemo (2 Tap Skills)205–215%170–180%155–165% (2 Fav procs)Double Anemo (4TF with 4 Tap Skills)105–110%100–105%Triple Anemo (Tap Skill + Hold Skill)145–155%115–125%Solo Anemo (1 Hold Skill)270–280%215–225%190–200% (+1 Team Fav)Rev Melt Ganyu (23s with 2 Tap)245–255%200–210%175–185% (2 Fav procs)Raiden + Ayaka(1 Hold Skill)155–170%120–130%
+
+
+
+
+Most Common Scenario: Ayaka's typical rotation is 1 Tap Skill + 1 Hold Skill.
+
+
+
+Unrecommended Scenario: 1 Hold Skill without Raiden is not recommended due to high ER requirements.
+
+
+
+Additional Favonius Procs: With a second Favonius user in the team, Ayaka’s ER requirements decrease by an additional 15% at lower ER requirements and up to 25% at higher ER requirements (per proc).
+
+
+
+Use the Energy Recharge Calculator to determine exact requirements for your team and rotation.
+
+
+
+
+EM vs. ADC
+
+
+
+One of the most hotly contested topics on Ayaka is whether he should use a full EM build, an ADC build, or something in-between.
+
+
+
+In short, you should almost always build Ayaka with EM main stat artifacts. EM provides Ayaka with not only increased personal damage through his Swirls but also increased team damage from his Ascension 4 Passive.
+
+
+
+Ayaka should almost never use an ADC build, with the only primary exception being in Triple Anemo teams. This is for a few main reasons:
+
+
+
+
+Swirls: Ayaka triggers a large number of Swirls in many of his teams, especially in multi-target scenarios.
+
+These Swirls have the potential to trigger chain reactions that deal even more AoE damage. 
+
+
+
+
+
+A4 Passive Scaling: Ayaka’s Ascension 4 Talent, Poetics of Fuubutsu, scales with Ayaka’s EM.
+
+This buff is extremely valuable to both Ayaka’s teammates and Ayaka himself, as the absorbed Elemental damage also benefits from his own buff. 
+
+
+
+
+
+Weapon Base ATK: Ayaka generally uses Favonius Sword or other 4-star weapons with EM or ER secondary stats, which have subpar Base ATK.
+
+This makes Ayaka’s non-Transformative Reaction damage relatively low, especially if he’s in a team without many ATK buffs.
+
+
+
+
+
+
+Here are some calculations that show the differences in team damage depending on Ayaka’s build:
+
+
+
+
+                
+                    Artifact Build Comparison at 140% ER
+                    
+
+Calcs: Ayaka Mastersheet by Vlad (vladutsu)
+
+
+
+Artifact Build Comparison at 140% ER
+
+
+
+                
+                    Artifact Build Comparison at 190% ER
+                    
+
+Calcs: Ayaka Mastersheet by Vlad (vladutsu)
+
+
+
+Artifact Build Comparison at 190% ER
+
+
+
+
+
+
+
+Weapons
+
+
+
+Wherever in this world I roam, I carry memories of my home… This blade… It is the last link I have to the land of my birth.
+
+
+
+Art by IIumiArts
+
+
+Weapon Overview
+
+
+
+Ayaka’s personal damage should not be the only priority when choosing a fitting weapon, since he also plays an important support role. Thankfully, Ayaka’s preferred weapons synergize with both his offensive and supportive capabilities.
+
+
+
+ER or EM Secondary Stat?
+
+
+
+Ayaka prefers weapons with an EM secondary stat as long as he can meet his ER requirements. His build and kit center on having a lot of Elemental Mastery, making this choice rather obvious. Despite this, he also needs Energy Recharge to consistently use his Burst, making weapons with an ER secondary stat worth considering. 
+
+
+
+Weapons with ER secondary stats are recommended when you cannot reach ER requirements from artifact substats alone. It can take quite a long time to get EM artifact pieces with sufficient ER substats since EM Goblets and Circlets are exceptionally rare.Note that Ayaka has greater ER and EM stat value by using Favonius Sword with an EM Sands versus Iron Sting with an ER Sands, not accounting for substats or Fav’s passive.
+
+
+
+Recommended Weapons
+
+
+
+Freedom-SwornFreedom-Sworn almost always outperforms other options, although Xiphos' Moonlight can outperform the weapon when Ayaka's teammates don't benefit from Freedom-Sworn's buffs. If Ayaka can reach ER thresholds and has teammates who benefit from Freedom-Sworn's buff, then it's a good idea to use the weapon. Otherwise, Xiphos or Favonius may be a better choice.Xiphos’ MoonlightXiphos' Moonlight is one of Ayaka’s top 4-star choices and arguably Ayaka's best weapon at high refinements. This weapon performs well even at Refinement Rank 1. An ER Sands is usually unnecessary due to its passive, so Ayaka should use an EM Sands.Favonius Sword performs exceptionally well in teams where Ayaka requires high Energy Recharge. While higher refinements make it stronger, an R1 Xiphos’ with sufficient ER substats on artifacts is competitive with Favonius Sword. In addition, this weapon also performs well if Ayaka’s teammates require a lot of Energy Recharge, even if Ayaka’s requirements are lower.Favonius SwordRecommended weapon for teams where Ayaka or other party members require high amounts of Energy Recharge. Favonius Sword benefits the entire team while still allowing you to build a lot of Elemental Mastery. Using this weapon can decrease Ayaka’s buffing and damage potential, but it’s worth it if it means you can use your team’s Bursts consistently. Its value slightly falls if you own a high refinement Xiphos’ Moonlight. Favonius Sword also performs worse than the weapons mentioned above if the ER requirements are extremely low.With Favonius Sword, Ayaka also benefits heavily from CRIT Rate to trigger its effect. However, he does not need significant investment into CRIT Rate for two reasons:• Ayaka has many chances to proc Favonius’s passive. In an N1 E Q sequence at 20% CRIT Rate and R1, it has a 47.2% chance of proccing against one enemy. At R5, it’s a 67.2% chance.• Ayaka can damage multiple enemies. Against just two enemies at 20% CRIT Rate and R1, a single N1 E Q sequence has a 72.1% chance of triggering the passive. At R5, that increases to 89.3%.Fleuve Cendre FerrymanFleuve Cendre Ferryman is Ayaka’s best free Sword when you cannot reach ER requirements from substats alone. If you already possess a high refinement Favonius Sword, then you should still use that since its teamwide Energy generation is better.Fleuve Cendre Ferryman is available for free from the Fontaine Fishing Association after catching the following:• 4 Maintenance Mek: Platinum Collection• 10 Rippling Heartfeather Bass• 10 Blazing Heartfeather Bass• 12 Streaming Axe MarlinEach refinement costs:• 2 Maintenance Mek: Platinum Collection• 5 Rippling Heartfeather Bass• 5 Blazing Heartfeather Bass• 6 Streaming Axe MarlinSacrificial SwordSacrificial Sword allows Ayaka to cast another Skill, which increases his personal DPS, lowers his ER requirements, and provides him another opportunity to group enemies. The additional Skill use affects rotation time and buff uptime, so it should be used with care. Sacrificial Sword is a nice alternative if you cannot use Favonius Sword. Equipping Sacrificial isn’t a priority, but it shouldn’t be overlooked either.In some Anemo Overvape teams, it's an option to both run Sacrificial Sword and use Ayaka's C1 effect, because Ayaka's chain reactions from his Skill can deal tremendous damage. However, in teams focused on a single hypercarry (e.g. Hu Tao, Wanderer, and Ayaka teams), there won't be enough leftover field time to justify using both Skill resets.Iron Sting & Toukabou ShigureAyaka’s most recommended free-to-play weapons at low ER requirements. Generally a solid choice. Iron Sting is not worth refining. Despite the small difference in performance in single-target and AoE scenarios, they perform practically the same. Nonetheless, Toukabou Shigure does match Ayaka’s outfit and doesn’t require a billet unlike Iron Sting.Dark Iron SwordDark Iron Sword is a solid free-to-play option if you cannot craft Iron Sting or didn’t get Toukabou Shigure. Dark Iron Sword is available from Chen the Sharp in Liyue Harbor near the Waypoint in the south of the city.Primordial Jade Cutter & Mistsplitter ReforgedDespite being CRIT weapons, Primordial Jade Cutter and Mistsplitter Reforged still perform well due to how strong they are. These weapons increase Ayaka’s personal damage and can deliver in both EM and ADC builds. However, this does not mean Ayaka should use an ADC build with these weapons. A triple EM build still performs better in every team except Triple Anemo. Prioritize using these weapons on your DPS units instead of Ayaka.
+
+
+
+Weapon Calculations
+
+
+
+
+                
+                    Weapon Comparison at 140% ER
+                    
+
+Calcs: Ayaka Mastersheet by Vlad (vladutsu)
+
+
+
+Weapon Comparison at 140% ER
+
+
+
+                
+                    Weapon Comparison at 190% ER
+                    
+
+Calcs: Ayaka Mastersheet by Vlad (vladutsu)
+
+
+
+Weapon Comparison at 190% ER
+
+
+
+
+
+
+
+Ayaka vs. Other Supports
+
+
+
+What say you join me out at sea someday when the weather's fine?
+
+
+
+Comparison Overview
+
+
+
+
+
+
+
+
+
+
+While Ayaka competes with some of these units for the “buffer” slot in a team, he can also perform well with these units. For example, Ayaka and Venti together form an extremely strong team core that can demolish nearly all multi-target content, especially against lighter enemies. 
+
+
+
+Additionally, these comparisons are heavily dependent on content, investment level, rotations, etc. You should use these comparisons as soft recommendations and take into account your unit investment and availability to make your own decisions. 
+
+
+
+For example, while Sucrose might outperform Ayaka as a buffer in a certain team, you might prefer to use Ayaka if he is at a higher level of investment, opting to use Sucrose in a different team instead.
+
+
+
+Ayaka vs. Sucrose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayaka and Sucrose are the game’s two premier Anemo supports with buffing capabilities. They are both excellent users of 4VV, providing their teams with valuable 40% RES Shred. Ayaka additionally provides an Elemental DMG Bonus with his A4 Passive, while Sucrose provides EM from her Ascension Passives and different stat buffs depending on her weapon (ATK% with TTDS or DMG% with Hakushin Ring).
+
+
+
+        ER RequirementsBuffingDrivingSet UpsOff-Field DamageGrouping
+
+
+ER Requirements
+
+
+
+Sucrose is less reliant on her Elemental Burst than Ayaka, so she can opt out of building ER to use her Burst every rotation. However, in cases where Sucrose would use her Burst every rotation, it is more expensive than Ayaka’s Burst. Sucrose typically doesn’t run an ER weapon outside of Hakushin Ring in Aggravate, Anemo Overvape, and Electro-Charged teams. While she can hold Favonius Codex or Prototype Amber, this comes at a cost to her buffing capabilities. Ayaka, on the other hand, can employ ER weapons like Favonius Sword at a minor cost to his buffing capabilities.
+
+
+
+
+
+Buffing
+
+
+
+Ayaka provides DMG buffs, while Sucrose provides EM. This makes Ayaka a better buffer for Mono Element and Freeze teams, where Sucrose’s EM share is wasted. In Freeze teams, Kokomi and Mona also want TTDS, making it redundant on Sucrose.
+
+
+
+Outside of Mono Element and Freeze teams, Sucrose is pretty competitive with Ayaka. She clearly outperforms him in teams with a Spread DPS unit, as Ayaka cannot buff Dendro at all prior to C2. Sucrose provides EM, which all Dendro units appreciate. 
+
+
+
+In non-Dendro teams where both units are used as supports, their buffs are pretty close. Ayaka or Sucrose may have the edge in certain teams given the different buffs they provide and how they scale with certain teams, but in most scenarios the damage difference is marginal. In these teams, Ayaka is usually a better pick because of his stronger grouping, even if the team does lose out on a bit of theoretical damage.
+
+
+
+
+
+Driving
+
+
+
+Sucrose can trigger more reactions compared to Ayaka as an on-field driver for Electro-Charged, Hyperbloom, or Quickbloom teams, given that she deals Anemo damage with her Normal and Charged Attacks. She is also a good on-field Aggravate driver; however, Ayaka’s Electro-absorbed Burst also deals significant damage, which puts them at odds. Additionally, some Electro-Charged teams have a dedicated on-field driver unit already (e.g. Kokomi), which makes Ayaka a competitive option. 
+
+
+
+
+
+Setups
+
+
+
+Both Ayaka and Sucrose have their own unique quirks that make setups easier in certain teams. For example, it’s much easier to achieve Double VV setups in Pyro VV Vape teams with Sucrose.
+
+
+
+Take a look at the following rotations with Thoma and Xingqiu:
+
+
+
+
+
+Ayaka
+
+
+
+Xingqiu Q N1 E > Thoma E N1 Q > Ayaka Q N1 tEPAyaka’s tEP must be done immediately after the N1 or else the setup fails.
+
+
+
+
+
+Sucrose
+
+
+
+Xingqiu Q (N1) E > Thoma (N1) EQ > Sucrose N1 ENormal Attacks in parentheses are optimal but completely optional.
+
+
+
+
+
+When these rotations are done with Ayaka instead of Sucrose, Xingqiu must do Q N1 E or E Q N1, and Thoma must do E N1 Q for the rotation to function, as the Double Swirl is reliant on the slight delay that Xingqiu has on his third Burst wave at Constellation 6. 
+
+
+
+In contrast, it is still optimal to weave Normal Attacks with Sucrose, but you are not punished with a failed setup if you don’t do them.
+
+
+
+There are also teams where Sucrose takes advantage of "Guoba Swirl", whereby she Swirls the Pyro aura off Guoba to shred Pyro RES. In these teams, Sucrose can be easier to use than Ayaka. For example, Sukokomon relies upon this technique, but it can also be used in Childe-Xiangling Reverse Vaporize teams.
+
+
+
+However, there are also teams where Ayaka works better. One example is in an Ayato — Fischl — Bennett — Ayaka team; in this team, Ayaka’s 2U Anemo application allows him to Swirl both Hydro and Electro at the same time while also absorbing Pyro onto his Elemental Burst.
+
+
+
+
+
+Off-field Damage
+
+
+
+It’s not much of a contest between Ayaka and Sucrose when it comes to off-field DPS. Ayaka does more damage than Sucrose because he triggers more reactions and has higher Talent multipliers. 
+
+
+
+
+
+Grouping
+
+
+
+Ayaka’s grouping is more intuitive than Sucrose’s grouping. Proper grouping with Sucrose involves precise positioning of her Elemental Skill, whereas Ayaka can group in a radius around him with his Skill. Sucrose’s grouping ability is strictly weaker than Ayaka’s grouping, especially considering that Sucrose’s Burst can even push enemies apart. 
+
+
+
+
+
+Ayaka vs. Venti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayaka and Venti are two very strong Anemo units. They can both provide 4VV Shred, but Ayaka is more effective at buffing his teammates and grouping heavier enemies whereas Venti provides stronger Burst grouping against small enemies. Furthermore, Venti provides an extremely valuable Energy refund with his Burst.
+
+
+
+While Ayaka provides better buffs than Venti, it’s also important to examine their grouping abilities.
+
+
+
+        GroupingContentElemental AbsorptionFreezeAyaka and Venti
+
+
+Grouping
+
+
+
+Generally, Venti groups more effectively against small enemies, while Ayaka groups more effectively against heavier enemies. However, Venti is more effective against Frozen enemies of any size.
+
+
+
+Venti can have stronger grouping for three reasons:
+
+
+
+
+Venti has higher uptime; this allows him to keep enemies grouped for the entirety of a team's DPS window.
+
+
+
+Venti can group multiple waves of content with a single Burst if the first wave dies quickly enough.
+
+
+
+Venti has a much larger Burst AoE, although Ayaka's Hold Skill is usually sufficient.
+
+
+
+
+However, Venti does have two flaws:
+
+
+
+
+Venti's Burst can be annoying to aim since you usually need to dash away before firing the Burst. The time taken to reposition can result in a net DPS loss.
+
+
+
+Venti lifts some enemies off the ground. This can be detrimental for units like Tartaglia, Keqing and Xiangling, who cannot hit enemies lifted by Venti’s Burst, but is irrelevant for units like Ayaka and Wanderer where lifted enemies can still be hit. 
+
+
+
+
+
+
+Content
+
+
+
+Venti and Ayaka have different levels of strength against certain types of content. Venti absolutely demolishes AoE mobbing content with his Elemental Burst, but his performance suffers against Boss enemies or other enemies that cannot be lifted. 
+
+
+
+Ayaka, on the other hand, remains powerful against all content, although he may have slightly worse grouping performance against mobbing content. 
+
+
+
+
+
+Elemental Absorption
+
+
+
+It's much more difficult to guarantee that a specific Element gets absorbed into Venti’s Elemental Burst, especially against enemies that cannot be pulled in by it. While it’s not impossible, it still requires you to aim Venti’s Burst correctly. 
+
+
+
+Ayaka can also absorb the wrong Element, but the issue is much more pronounced when using Venti since his teams usually account for his Energy refund when building for ER requirements.
+
+
+
+
+
+Freeze
+
+
+
+One place where Venti can shine is Freeze teams. Freeze teams are usually played against non-Boss enemies that Venti can pick up. Additionally, Frozen enemies can't dash/walk out of Venti's Burst, increasing his grouping effectiveness and allowing Venti to keep a wide range of enemies completely locked down. When Frozen, even heavy enemies like Ruin Guards can be sucked in by Venti’s Burst.
+
+
+
+This isn't to say that Ayaka is worse than Venti; Ayaka actually outperforms Venti in terms of damage in many Freeze teams, but Venti can be better in Ganyu teams, where her Burst deals massive damage due to its pseudo-quadratic scaling.
+
+
+
+
+
+Ayaka and Venti
+
+
+
+You can also play Ayaka and Venti together. They make a comfortable core for AoE damage given their high off-field damage potential, and using them with any two non-Geo units generally yields good results. Venti’s tight grouping allows Ayaka to trigger Swirl on multiple enemies, increasing his personal damage contribution.
+
+
+
+Using Ayaka and Venti together also enables Ayaka to use 4pc Thundering Fury instead of 4pc Viridescent Venerer in Aggravate or Electro-Charged teams.
+
+
+
+
+
+Ayaka vs. Heizou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heizou is similar to Sucrose; they're both 4-star Catalyst users who can buff EM. However, he has a weaker buff, weaker grouping, shorter range, and requires field time to use his Elemental Skill to its maximum potential. Nonetheless, Heizou can provide higher personal damage. Even in Heizou’s best use cases as a support (Freeze teams), Ayaka and Sucrose still perform better. 
+
+
+
+Despite his shortcomings, Heizou and Ayaka have good synergy together. They both have low cooldowns and a DPS Heizou build works in Triple Anemo or Mono Pyro (Ayaka — Heizou — Bennett — Xiangling).
+
+
+
+Ayaka vs. Jean or Sayu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+While Ayaka and Jean are both Anemo units with high-damage Elemental Skills and Bursts that can buff Elemental DPS units with 4VV, the similarities stop there. Jean is a role consolidator — she can heal the team, battery Anemo teammates, and provide 4VV RES Shred. Most notably, she enables the Sunfire interaction with Bennett, where Jean’s Burst Swirls the self-applied Pyro aura from Bennett’s Burst.
+
+
+
+Both units can be used in the flex slot for many teams; however, Ayaka is almost always the better choice unless you need survivability but lack another healer. Jean can be a viable alternative in scenarios requiring the rapid Pyro application provided by Sunfire. For example, the Sunfire effect can be extremely valuable against enemies with Elemental shields (like Cryo Abyss Heralds). Against enemies with a permanent Elemental auras (like Thundering Manifestation), Ayaka cannot achieve a Pyro Swirl, but Jean can due to Sunfire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The comparison between Ayaka and Sayu is mostly the same as the one between Ayaka and Jean with two differences exceptions. 
+
+
+
+
+Sayu does not have the Sunfire interaction.
+
+
+
+Sayu can absorb Swirl-able Elements into her Skill and Burst to trigger reactions (e.g. Aggravate in Quicken teams).
+
+
+
+
+Ayaka is almost always a better choice unless you need the healing that Sayu provides.
+
+
+
+Ayaka vs. Zhongli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayaka and Zhongli are vastly different support units, only sharing the ability to shred Elemental RES. However, they are both options for the flex slot in many teams, making the comparison important to analyze.
+
+
+
+        RES ShredDMG BonusEnergyComfort
+
+
+RES Shred
+
+
+
+Both Ayaka and Zhongli provide RES Shred; Ayaka can shred 40% Elemental RES with 4VV, while Zhongli shreds 20% with his Skill’s shield. However, these numbers are deceiving. Zhongli can actually be a more effective RES shredder than Ayaka for a few reasons:
+
+
+
+
+Zhongli’s RES Shred is conditional only upon his shield being up, and his shield has 100% uptime (assuming it doesn’t break). 4VV RES Shred runs out after 10s, and while the Shred can be refreshed, many rotations and teams don’t have the ability to maintain 100% uptime. 
+
+
+
+Zhongli’s RES Shred is universal, shredding Anemo, Physical, Dendro, and Geo RES, whereas 4VV can only shred Cryo, Electro, Hydro, and Pyro RES.
+
+
+
+While enemy RES can become negative, additional amounts of RES Shred under 0% are effectively halved. While Ayaka shreds 20% more Elemental RES than Zhongli, the difference is actually smaller due to the reduced effectiveness. Against the typical enemy base RES of 10%, Ayaka provides a 1.15× multiplier, while Zhongli provides a 1.05× multiplier. This is only a ~9.5% difference, assuming similar uptime.
+
+
+
+
+
+
+DMG Bonus
+
+
+
+In addition to RES Shred, both Ayaka and Zhongli can provide Elemental DMG Bonus. If Zhongli is used with another Geo unit, he provides Geo Resonance. Moreover, he can hold 4pc Archaic Petra to provide an additional DMG buff, although this set is not as consistent as Ayaka’s A4 Passive. In most cases, Ayaka’s DMG buff is stronger than the buffs given by Zhongli.
+
+
+
+
+
+Energy
+
+
+
+In terms of Energy, Ayaka generates more particles than Zhongli for a variety of reasons.
+
+
+
+
+Zhongli’s Stone Stele is inconsistent with how often it hits enemies and generates particles.
+
+
+
+Zhongli’s pillar placement interferes with movement, which can prevent attacks from striking enemies or delay ability uses.
+
+
+
+Zhongli has fewer chances to proc Favonius passive, with only one hit from his Hold Skill and one hit from his Burst (which may not even be used). On the other hand, Ayaka has four hits from an E Q sequence. While Zhongli can perform additional Normal Attacks to proc Favonius, this cuts into buff uptime and extends rotations, which results in a DPS loss.
+
+
+
+
+
+
+Comfort
+
+
+
+Zhongli’s comfort should not be overlooked. However, it is difficult to quantify this difference since it depends on your specific units and enemy scenario. For example, Yoimiya benefits greatly from Zhongli’s shield, because she loses damage when interrupted during her Normal Attack sequence. Additionally, if you have a difficult time surviving against enemies for whatever reason, Zhongli is probably the best option to make your game experience as comfortable as possible. After all, dying is a DPS loss. 
+
+
+
+
+
+
+
+
+Teams
+
+
+
+The waves rise high out in the open seas. I, too, must reach new heights of strength.
+
+
+
+Official Ayaka Art
+
+
+Ayaka is viable in many possible teams. The order of team archetypes and team examples is not necessarily indicative of their relative strength.
+
+
+
+Read the Character Synergy section for more information on specific character interactions.
+
+
+
+Aggravate & Spread Teams
+
+
+
+Quicken
+
+
+
+Ayaka — Dendro — Electro — Electro
+
+
+Ayaka is an excellent Anemo support in Quicken teams with two Electro teammates. In teams with two Dendro or only one Electro, Ayaka cannot consistently Swirl and absorb Electro. While Ayaka does not buff Dendro units (unless at C2), his Electro DMG buff and 4VV Electro RES Shred significantly increase the DPS of his Electro teammates. Moreover, his Electro-absorbed Skill and Burst can trigger Aggravate off of a Quicken aura. Ayaka is best utilized in multi-target scenarios, since his Swirl damage takes a hit in single-target.
+
+
+
+Notable Quicken Teammates
+
+
+
+All Electro and Dendro characters are viable with Ayaka to varying degrees in Quicken teams. 
+
+
+
+See the Synergies section for more details.
+
+
+
+Example Quicken Teams
+
+
+
+Ayaka — Kirara — Keqing — Fischl
+
+
+(Keqing EE) > Ayaka tEP Q > Kirara (Q) hE > Fischl Q > Keqing E Q E N1C N1 E 3[N1C] > repeatKeqing starts the rotation with her Skill if there is no Electro aura on the enemy. Kirara uses her Burst only if she is on 4pc Noblesse Oblige. In other cases, Kirara's Burst can be used every other rotation or in AoE scenarios. Kirara only holds her Skill briefly (short hold).
+
+
+
+
+                
+                    Video Demonstration
+                    
+
+
+
+Rotation Video by casdela
+
+
+
+
+
+Ayaka — Nahida — Raiden — Sara
+
+
+Raiden E > Ayaka N1 tEP > Nahida E Q > Sara E CA > Ayaka N1 tEP Q > Sara Q > Raiden Q 3[N3C] N1C > repeat
+
+
+
+4TF Ayaka (Aggravate)
+
+
+
+Ayaka (4TF) — Dendro — Electro — Anemo (4VV)
+
+
+Ayaka can serve as a quickswap Aggravate DPS with the Thundering Fury artifact set (4TF), whose 4pc set effect (which triggers off Aggravate) reduces the Skill cooldown of the holder. This works particularly well with Ayaka’s already low Skill cooldown. Ayaka should be used with another 4VV Anemo unit and a highly consistent Electro applier like Fischl. Aggravate 4TF Ayaka performs better in AoE scenarios since an Aggravated Swirl deals damage to multiple enemies at the same time. His increased particle generation also lowers ER requirements significantly.
+
+
+
+Notable 4TF Ayaka (Aggravate) Teammates
+
+
+
+        DendroElectroAnemo
+
+
+Dendro Options
+
+
+
+ColleiYaoyaoKiraraNahidaBaizhuTraveler
+
+
+
+
+
+Electro Options
+
+
+
+FischlYae MikoKuki Shinobu
+
+
+
+
+
+Anemo Options
+
+
+
+VentiSucroseHeizouSayuJeanLynette
+
+
+
+
+
+Example 4TF Ayaka (Aggravate) Teams
+
+
+
+Ayaka — Collei — Fischl — Venti
+
+
+Venti Q > Fischl E/Q > Collei Q > Ayaka tEP Q N1 tEP N1 tEP > Venti E > Collei E > Ayaka N2 tEP > repeat
+
+
+
+Hyperbloom Teams
+
+
+
+Ayaka — Dendro — Hydro — Electro
+
+
+Hyperbloom teams use Electro application on Dendro Cores to deal Hyperbloom damage. Ayaka provides multiple functions in the archetype:
+
+
+
+
+Dendro Core production through Hydro Swirls and a Hydro-absorbed Burst
+
+
+
+Hyperbloom triggers with Electro Swirls (and rarely an Electro-absorbed Burst)
+
+
+
+Additional damage through Swirls
+
+
+
+Dendro Core grouping with his Skill
+
+
+
+At C2, a 200 EM buff to the on-field character and himself
+
+
+
+
+Ayaka’s Electro application is slower than dedicated Hyperbloom units like Raiden Shogun and Kuki Shinobu. It is difficult to consistently absorb Electro into his Burst, so Ayaka will primarily trigger Hyperbloom with Electro Swirls off enemy auras. 
+
+
+
+Some Hyperbloom teams can be considered “Quickbloom”, in which slow Hydro application leads to increased Quicken uptime, resulting in lower Dendro Core production in exchange for more consistent Aggravate and Spread reactions.
+
+
+
+In general, Sucrose is a better Anemo unit to use in a Hyperbloom + Anemo team since she provides EM buffs to her teammates even while they are off-field. Nonetheless, Ayaka can still be played since the Hyperbloom core is already so strong.
+
+
+
+Electro-Charged Swirls with Dendro
+
+
+
+With insufficient Hydro or Electro application, it is impossible to maintain a Hydro or Electro aura, which prevents Ayaka from Swirling either Element. This issue can be mitigated by following proper rotations and using characters with appropriate amounts of Elemental application. For this reason, Nahida in particular isn’t recommended since her 1.5U Dendro application can be too much.
+
+
+
+Ayaka can Swirl Electro-Charged by utilizing the 2U Anemo application on his Hold Skill and Burst initial hit to apply Electro-Charged to multiple enemies, which enables multiple Dendro Cores to be generated on each enemy. 
+
+
+
+The Electro-Charged Multi-Bloom mechanic works as follows: 
+
+
+
+
+Applying Dendro to an Electro-Charged aura triggers Bloom and also Quicken, which can also react with another Hydro application to trigger another instance of Bloom and generate another Dendro Core.
+
+
+
+
+This doesn’t always occur and there are conditions under which it does not happen, but in general this happens.
+
+
+
+Notable Hyperbloom Teammates
+
+
+
+        DendroHydroElectro
+
+
+Dendro Options
+
+
+
+Traveler ColleiBaizhuYaoyaoNahidaAlhaitham
+
+
+
+
+
+Hydro Options
+
+
+
+XingqiuYelanKokomiNeuvilletteAyatoCandace
+
+
+
+
+
+Electro Options
+
+
+
+RaidenKuki ShinobuFischlYae Miko
+
+
+
+
+
+Example Hyperbloom Team
+
+
+
+Ayaka — Traveler (Dendro) — Kokomi — Fischl
+
+
+Kokomi E > Traveler E Q N1 > Fischl E > Ayaka N1 hEP Q > Kokomi Q 3[N3D] > Fischl Q > Traveler E > Ayaka tEP > Kokomi 4[N3D] > repeat
+
+
+
+In this team, it is very difficult to control whether Ayaka absorbs Hydro or Electro into his Elemental Burst. This depends on the frames when each teammate uses their abilities (i.e. Kokomi Skill, Traveler Burst, Fischl Skill, Ayaka Burst). Hydro absorption is more likely to occur since Electro absorption is possible only if there is no Hydro on any enemy (due to Ayaka’s absorption priority).
+
+
+
+Burgeon Teams
+
+
+
+Ayaka — Dendro — Hydro — Pyro
+
+
+Burgeon teams are complicated and sensitive in nature due to interactions between Pyro and Dendro. Burning (Dendro + Pyro) consumes Dendro auras and limits Dendro Core production. As such, there must be sufficient Hydro application through a Hydro unit like Tartaglia or with Ayaka’s Hydro-absorbed Burst. Slow and consistent Pyro application is necessary to avoid creating too much Burning. Burgeon teams also require a healer or shielder due to Burgeon’s self-damage. That said, their incredible AoE scaling still makes Burgeon teams a strong option.
+
+
+
+In Burgeon teams, Ayaka can be a strong support with his grouping, which allows more enemies to be hit by the Burgeon reaction. However, his Skill and Burst’s tendency to absorb Pyro is also a massive weakness, as doing so can cause Burning to occur. Despite that, this can be used to his advantage when paired with Bennett, allowing him to act as the sole Burgeon trigger.
+
+
+
+Notable Burgeon Teammates
+
+
+
+        DendroHydroPyro
+
+
+Dendro Options
+
+
+
+NahidaTraveler ColleiBaizhuYaoyao
+
+
+
+
+
+Hydro Options
+
+
+
+XingqiuYelanTartagliaKokomiAyatoCandaceBarbara
+
+
+
+
+
+Pyro Options
+
+
+
+BennettThoma
+
+
+
+
+
+Example Burgeon Teams
+
+
+
+Ayaka — Nahida — Kokomi — Thoma
+
+
+Kokomi E > Ayaka N1 tEP Q > Nahida E Q > Thoma E Q > Kokomi Q 5[N3D] > Ayaka N1 tEP > Nahida E N2C > Kokomi N3D N3 > repeat
+
+
+
+Ayaka — Traveler (Dendro) — Xingqiu — Thoma
+
+
+Xingqiu E Q N1 > Traveler E Q N2 > Ayaka N1 tEP Q > Thoma E Q N1 > Normal Attacks > Traveler E N2 > Ayaka N1 tEP > repeat
+
+
+
+Anyone can realistically drive Thoma’s Burst. After the initial set-up, the rotation is flexible as long as you get in another use of Traveler’s and Ayaka’s Skill and avoid absorbing Pyro into Ayaka’s Burst.
+
+
+
+Freeze Teams
+
+
+
+Ayaka — Cryo — Cryo — Hydro
+
+
+Ayaka is a premier pick for Freeze teams due to his buffs and grouping. However, his Plunging Attack limits Freeze uptime with certain Hydro teammates like Mona. This issue is mitigated by using a sufficient Hydro applier or opting out of his Plunging Attack after using his Skill. Nonetheless, Ayaka’s priority to build EM allows his incidental Shatter reactions to provide additional team damage.
+
+
+
+Notable Freeze Teammates
+
+
+
+        Cryo DPSCryo SupportHydro
+
+
+Cryo DPS Options
+
+
+
+AyakaGanyuRosariaKaeyaWriothesley
+
+
+
+
+
+Cryo Support Options
+
+
+
+ShenheRosariaGanyuKaeyaLaylaDiona
+
+
+
+
+
+Hydro Options
+
+
+
+KokomiMonaAyatoFurinaXingqiuYelanBarbara
+
+
+
+
+
+Example Freeze Teams
+
+
+
+Ayaka Freeze
+
+
+
+Ayaka is uniquely strong with Ayaka given his short-cooldown grouping and A4 buff. He also allows Ayaka to take on both AoE and single-target damage, while Ayaka-Venti teams are more specialized in dealing with large groups of enemies. 
+
+
+
+Example Ayaka Freeze Team
+
+
+
+Ayaka — Ayaka — Shenhe — Kokomi
+
+
+Ayaka D (1st Rotation) > Ayaka tEP Q > Shenhe tE Q > Kokomi E > Ayaka D N1 E Q > Ayaka tEP > Shenhe tE N1 > Ayaka D N2C N2 E N2C
+
+
+
+Ganyu Freeze
+
+
+
+Ganyu appreciates Ayaka’s buffing and grouping, given that her damage in Freeze teams increases heavily when enemies are grouped, and the buffs which Ayaka offers make him one of the strongest support options for her. However, since Venti has stronger grouping, you can use him as a potentially stronger substitute for Ayaka in these teams.
+
+
+
+Example Ganyu Freeze Team
+
+
+
+Ayaka — Ganyu — Diona — Mona
+
+
+Ganyu C > Ayaka tEP Q > Diona hE > Ganyu E Q > Ayaka hEP > Mona EQ > Ganyu 2[C] > Ayaka tEP
+
+
+
+Rosaria / Kaeya Freeze
+
+
+
+Rosaria and Kaeya can both be used as quickswap DPS units for a Freeze team to great effectiveness, especially if you have their Constellations. Given that both their Bursts are off-field, it’s possible to use an on-field Hydro unit such as Ayato or Tartaglia.
+
+
+
+Example Rosaria / Kaeya Freeze Team
+
+
+
+Ayaka — Rosaria — Kaeya — Ayato
+
+
+Ayato Q > Rosaria E > Ayaka N1 hEP Q > Rosaria Q E > Kaeya E Q > Ayato E N15 > Kaeya E > Rosaria E > Ayaka N1 tEP > Ayato E N15 > repeat
+
+
+
+This rotation is quite flexible due to their low cooldowns, and other rotations may be better based on wave content. It is possible to skip Ayato’s Burst every other rotation to accommodate a 15s rotation, which also helps alleviate his ER requirements.
+
+
+
+Reverse Vape Teams
+
+
+
+Ayaka — Pyro DPS — Hydro — Flex
+
+
+Ayaka is a top choice for Reverse Vape teams, competing directly with Sucrose for damage potential. He trades her raw EM share for the powerful DMG buffs he provides to both Pyro and Hydro characters while offering comfortable grouping and significant personal damage.
+
+
+
+Ayaka’s unique Elemental Skill and Burst allow him to shred Hydro and Pyro RES with Double Swirl setups, which buffs both the Hydro and Pyro DPS unit. The setups for these teams can be difficult, and it’s recommended to practice them a bit before performing them in hard content.
+
+
+
+Notable Reverse Vape Teammates
+
+
+
+        Pyro DPSHydroPyro SupportGeo
+
+
+Pyro DPS Options
+
+
+
+XianglingHu TaoYoimiyaDilucYanfei
+
+
+
+
+
+Hydro Options
+
+
+
+XingqiuYelanFurinaTartagliaAyatoNeuvilletteCandace
+
+
+
+
+
+Pyro Support Options
+
+
+
+BennettThomaYanfeiXinyanAmberDehya
+
+
+
+
+
+Geo Options
+
+
+
+ZhongliAlbedoYun Jin
+
+
+
+
+
+Example Reverse Vape Teams
+
+
+
+Ayaka — Xiangling — Tartaglia — Bennett
+
+
+First RotationTartaglia E > Bennett Q > Ayaka Q tEP (N1) > Xiangling Q E > Tartaglia Q E 5[N2CD] N2CJ > DowntimeFor Double Swirl in multi-target, Tartaglia’s Skill cast must make contact with at least one enemy, and Bennett’s Burst must hit at least one different enemy.
+
+
+
+DowntimeBennett E > Xiangling (N2 / E) > Ayaka tEP / Tartaglia C  > Second RotationRepeat this sequence until Xiangling’s Burst is almost full (usually 2–3 times).
+
+
+
+Second RotationTartaglia C > Xiangling E > Ayaka hEP Q (N1) > Bennett Q E > Xiangling Q > Tartaglia Q E 5[N2CD] N2CJ > DowntimeTartaglia’s Charged Shot must hit an enemy marked with Riptide or without a pre-existing Pyro aura. This rotation is also used for subsequent rotations if necessary.
+
+
+
+Ayaka — Xiangling — Xingqiu — Bennett
+
+
+Single-Target SetupXingqiu E Q (E) > Ayaka Q > Bennett E Q > Ayaka hEP > Xiangling Q E
+
+
+
+Multi-Target SetupBennett E Q > Ayaka tEP > Xiangling Q E > Xingqiu E (E) Q > Ayaka Q (outside of Bennett’s Burst)
+
+
+
+Ayaka — Hu Tao / Yoimiya — Xingqiu (C6) — Thoma
+
+
+Xingqiu E Q (E) > Thoma E Q > Ayaka N1 tEP (N1) Q > Hu Tao / Yoimiya E Normal Combo (Q) > repeat
+
+
+
+
+                
+                    Video Demonstration
+                    
+
+
+
+Double VV Set Up Demonstration by Ayzel
+
+
+
+
+
+Ayaka needs to animation cancel his first N1 with his Skill. The second (N1) can be used if additional Hydro application is necessary to absorb Hydro into his Burst. Xingqiu needs to be at C6 in order to apply enough Hydro for Hu Tao to consistently trigger Vaporize (since Thoma’s Burst can steal Vapes).
+
+
+
+Reverse Melt Teams
+
+
+
+Ayaka — Bennett — Cryo DPS — Flex
+
+
+Similar to Reverse Vape teams, Reverse Melt teams focus on using Amplifying Reactions by reacting Cryo on Pyro to increase damage. These teams require Bennett due to the amount of role compression and buffs he provides. Aside from his buffing capabilities and personal damage, Ayaka can absorb his Burst with Pyro through Bennett’s self application, increasing the consistency with which Melts can be performed.
+
+
+
+Notable Reverse Melt Teammates
+
+
+
+        Cryo DPSPyro ApplicationShielders
+
+
+Cryo DPS Options
+
+
+
+RosariaKaeyaChongyunWriothesleyGanyu
+
+
+
+
+
+Pyro Application Options
+
+
+
+BennettXianglingNahida
+
+
+
+
+
+Shield Options (for Ganyu or Wriothesley)
+
+
+
+ZhongliDehyaYanfeiXinyanThoma
+
+
+
+
+
+Example Reverse Melt Teams
+
+
+
+Rosaria Reverse Melt
+
+
+
+This team archetype revolves around Reverse Melting Rosaria’s damage through Pyro application. While Ayaka is not always a prime pick in such teams because of the difficulty of Swirling both Pyro and Cryo from the second rotation onwards, even Swirling one Element is a significant boost that it can warrant his inclusion.
+
+
+
+Note that with C6 Bennett and Ayaka, there is enough Pyro application that Xiangling can be replaced for a buffer such as Shenhe. Though the damage is good, this is nonetheless relatively niche.
+
+
+
+Example Rosaria Burnmelt Team
+
+
+
+Ayaka — Bennett — Rosaria — Nahida
+
+
+Rosaria E > Nahida E Q > Ayaka N1 tEP > Bennett E Q > Rosaria E Q > Ayaka Q tEP > Rosaria N2 E > Bennett E > Nahida N3 E N3 > Ayaka tEP N1 > repeat
+
+
+
+Ganyu Reverse Melt
+
+
+
+Ganyu Reverse Melt with Ayaka is not recommended unless you can achieve near-perfect inputs. The window for error for a 5 Charged Shot rotation is less than 0.08s. Missing the Melt on the last Charged Shot is a significant DPS loss. It is also quite easy to lose the Pyro aura. While possible, it requires significant amounts of time and practice. If you want to play Reverse Melt Ganyu before C6, just use Xiangling instead of Ayaka to save yourself the headache.Before C6, Ganyu requires a shield to function. With C6 Ganyu, Ayaka can be recommended with additional Pyro application from a unit like Xiangling or Jean. 
+
+
+
+If you insist on playing it, feel free to read the section in our Ganyu Guide for more information.
+
+
+
+Example Ganyu Reverse Melt Team
+
+
+
+Ayaka — Bennett — Ganyu — Zhongli 
+
+
+5 Charged Shot Rotation (Unrealistic)Zhongli hE > Ganyu E C > Ayaka tEP > Bennett Q > Ayaka Q > Ganyu 5[C] > Ayaka tEP > Bennett E > repeat
+
+
+
+
+                
+                    Video Demonstration
+                    
+
+
+
+Rotation Video by rarepossum
+
+
+
+
+
+4 Charged Shot Rotation (Realistic)Zhongli hE > Ganyu E C > Ayaka tEP > Bennett Q > Ayaka Q > Ganyu 4[C] > Bennett E > Ayaka tEP > Bennett E > repeat
+
+
+
+
+                
+                    Video Demonstration
+                    
+
+
+
+Rotation Video by rarepossum
+
+
+
+
+
+Forward Melt Teams
+
+
+
+Ayaka — Pyro DPS — Cryo — Flex
+
+
+Forward Melt teams employ an on-field Pyro DPS with off-field Cryo appliers. While viable Forward Melt teams are rare, Ayaka’s buffing capability and ability to absorb Cryo into his Burst make him a strong choice. So far, only Diluc and Bennett (before C6) are effective Forward Melt on-field DPS options.
+
+
+
+Notable Forward Melt Teammates
+
+
+
+        Pyro DPSCryoFlex
+
+
+Pyro DPS Options
+
+
+
+DilucBennett (Pre-C6)
+
+
+
+
+
+Cryo Options
+
+
+
+RosariaKaeyaChongyunGanyu
+
+
+
+
+
+Flex Options
+
+
+
+BennettZhongliAlbedo
+
+
+
+
+
+Example Forward Melt Teams
+
+
+
+Ayaka — Diluc — Kaeya — Bennett
+
+
+Pre-C6 BennettKaeya E > Ayaka Q > Bennett Q E > Ayaka N1 hEP > Kaeya Q E > Diluc Q 3[N1E] N1 > repeat
+
+
+
+C6 BennettKaeya E > Ayaka E > Bennett Q E > Ayaka N1 hEP > Kaeya Q E > Diluc E N2 E N1 E Q N4 > repeat
+
+
+
+Ayaka — Bennett (Pre-C6) — Chongyun — Rosaria
+
+
+Initial RotationBennett E > Ayaka N1 tEP > Chongyun Q E > (Ayaka Q) > Bennett Q N1 E > Rosaria Q E > Bennett 4–5[N1E] > Subsequent Rotation
+
+
+
+Subsequent RotationsBennett Q N1 E > Ayaka N1 tEP > Chongyun Q E > Bennett 4-5[N1E] > Rosaria E Q > Bennett 2[N1E] > repeat
+
+
+
+Ayaka can use his Burst in the first rotation after Chongyun, but it should not be used after since it absorbs Pyro. Bennett should only use his Tap Skill. Note that this team is impossible to play with C6 Bennett.
+
+
+
+Electro-Charged & Anemo Overvape Teams
+
+
+
+Electro-Charged
+
+
+
+Ayaka — Electro — Hydro — Flex
+
+
+Electro-Charged teams use Hydro and Electro units to let Ayaka trigger high-damage Swirls and Electro-Charged reactions. Ayaka’s ability to apply AoE Hydro and Electro through Elemental Absorption and Swirls allows him to act as the trigger for Electro-Charged reactions.
+
+
+
+Occasionally, Ayaka can Swirl both Hydro and Electro with a single Anemo application, which further increases his Elemental application. However, his consistency in being the trigger for reactions can vary greatly depending on his teammates.
+
+
+
+Notable Electro-Charged Teammates
+
+
+
+        ElectroHydroFlex
+
+
+Electro Options
+
+
+
+FischlBeidouYae MikoKuki ShinobuRaidenLisa
+
+
+
+
+
+Hydro Options
+
+
+
+XingqiuYelanAyatoKokomiNeuvilletteFurina
+
+
+
+
+
+Flex Options
+
+
+
+VentiZhongliAlbedo
+
+
+
+
+
+Example Electro-Charged Teams
+
+
+
+Ayaka — Fischl — Xingqiu — Beidou
+
+
+Xingqiu E Q N1 > Beidou E > Ayaka hEP Q N1 > Fischl E/Q N1 > Beidou Q E > Ayaka 12[N2D] tEP > repeat
+
+
+
+With consistent inputs and dash cancels, Ayaka can proc Beidou’s Burst 12 times with 12 consecutive N2D combos. With slower inputs, only 11 procs occur.
+
+
+
+Ayaka — Yae — Neuvillette (C1) — Furina
+
+
+Sample RotationNeuvillette E > Furina E(D) > Ayaka tEP Q > Yae Miko 3[E] > Furina Q > Neuvillette C Q C E > Ayaka tEP > Yae Miko 3[E] > Neuvillette 2[C]
+
+
+
+A highly potent 5-star team. Neuvillette’s HP fluctuation gains a sufficient amount of Fanfare stacks to make Furina worthwhile without a healer. Neuvillette's C1 increases his interruption resistance and gives him an additional stack of his passive.
+
+
+
+Ayaka — Kuki Shinobu — Yelan — Raiden
+
+
+Raiden E > Shinobu Q > Yelan E > Ayaka hEP Q > Yelan Q > Shinobu E > Raiden Q 3[N3C] N1C > Ayaka tEP > repeat
+
+
+
+Ayaka — Fischl — Ayato — Beidou
+
+
+Ayato Q > Fischl E/Q > Ayaka hEP Q > Beidou E Q > Ayato E N15 E N15 > Beidou E > Ayaka tEP > repeat
+
+
+
+This rotation assumes Ayato is on 4pc Thundering Fury. On another set, the rotation is extended by a few seconds to accommodate Ayato’s downtime. 
+
+
+
+4TF Ayaka (Electro-Charged)
+
+
+
+Ayaka (4TF) — Electro — Hydro — Anemo (4VV)
+
+
+4TF Ayaka is a Electro-Charged team archetype that excels against multi-target content and can clear mobbing content with ease. The 4pc set effect of Thundering Fury (which triggers off Electro-Charged) reduces the Skill cooldown of the holder. This works particularly well with Ayaka’s already low Skill cooldowns. 
+
+
+
+Ayaka should be used with another 4VV Anemo and a highly consistent Electro applier like Fischl. 4TF Ayaka performs better in AoE scenarios since an Electro-Charged Swirl deals damage to multiple enemies at the same time. His increased particle generation also lowers ER requirements significantly.
+
+
+
+Notable 4TF Ayaka (Electro-Charged) Teammates
+
+
+
+        ElectroHydroAnemo
+
+
+Electro Options
+
+
+
+FischlYae MikoKuki Shinobu
+
+
+
+
+
+Hydro Options
+
+
+
+KokomiXingqiuYelan
+
+
+
+
+
+Anemo Options
+
+
+
+VentiXianyunSucroseHeizouSayuJeanLynette
+
+
+
+
+
+Example 4TF Ayaka (Electro-Charged) Teams
+
+
+
+Ayaka — Fischl — Kokomi — Venti
+
+
+Fischl Q > Kokomi E > Venti Q > Ayaka tEP Q N1 tEP N1 tEP > Fischl E > Kokomi Q > Venti E > Ayaka N2 tEP N1 tEP > repeatThis is just one of many possible rotations. The team is pretty flexible as long as you maintain a consistent Electro-Charged aura on enemies with Fischl’s Oz and Kokomi’s Bake-Kurage.
+
+
+
+Anemo Overvape
+
+
+
+Ayaka — Bennett — Electro — Hydro
+
+
+Anemo Overvape is like an Electro-Charged Ayaka team with Bennett added for additional Elemental Reactions from Pyro reacting with Hydro and Electro aura from Electro-Charged. This team may be known as "Soup" in some communities.
+
+
+
+Ayaka can provide multiple Elemental DMG buffs and almost always absorbs Pyro into his Burst, which lets him proc Overloaded, Reverse Vape, and Electro-Charged Swirls. The Hydro or Electro unit can serve as the on-field DPS unit, or they can both be off-field units with Bennett or Ayaka serving as an on-field driver.
+
+
+
+Notable Anemo Overvape Teammates
+
+
+
+        HydroElectro
+
+
+Hydro Options
+
+
+
+AyatoTartagliaYelanXingqiuFurina
+
+
+
+
+
+Electro Options
+
+
+
+FischlRaiden
+
+
+
+
+
+Example Anemo Overvape Teams
+
+
+
+Ayaka — Bennett — Fischl — Ayato
+
+
+Ayato Q > Fischl E > Ayaka N1 tEP > Ayato E N15 > Bennett E Q > Fischl Q > Ayaka N1 tEP Q > Ayato E N15
+
+
+
+Ayaka — Bennett — Fischl — Tartaglia
+
+
+Initial RotationTartaglia E > Bennett Q > Ayaka N1 hEP Q > Tartaglia Q > Fischl E > Tartaglia E 5[N2CD] > Subsequent Rotation
+
+
+
+Subsequent RotationBennett E N2 > Ayaka N1 tEP > Bennett E Q > Tartaglia C > Ayaka Q hEP > Tartaglia Q > Fischl Q/E > Tartaglia E 5[N2CD] > repeat
+
+
+
+Ayaka — Bennett — Raiden — Yelan
+
+
+Raiden E > Yelan E Q > Ayaka hEP > Bennett Q > Ayaka Q > Raiden Q 3[N3C] N1C > Bennett E > repeat
+
+
+
+Mono Element & Hypercarry Teams
+
+
+
+Ayaka — Element — Element — Flex
+
+
+Mono Element (Pyro | Cryo | Hydro | Electro) teams use synergies between characters of the same Element, as well as Anemo and Geo buffers. Ayaka is uniquely poised to buff these teams through his Ascension 4 Passive’s Elemental DMG% buff. Additionally, because these teams use units of the same Element, characters enjoy lower ER requirements than usual. Generally, Ayaka’s Mono Element teams have an on-field Elemental DPS, off-field Elemental unit, and an off-field unit that is of the same Element, Geo, or Anemo.
+
+
+
+Hypercarry teams are a related archetype that opt for multiple supports to funnel a single Elemental DPS unit. While not technically a Mono Element team depending on the Element of the supports, they are mentioned in this section due to their similarities in units and teambuilding.
+
+
+
+Mono Pyro
+
+
+
+Ayaka — Bennett — Pyro — Flex
+
+
+Mono Pyro teams are highly competitive with their reaction-based counterparts due to the availability of artifact sets like Lavawalker and Emblem of Severed Fate combined with Bennett’s incredible Flat ATK buff. Bennett is irreplaceable in this archetype — his buffs, healing and Energy cannot be replicated by any other unit.
+
+
+
+Notable Mono Pyro Teammates
+
+
+
+        PyroFlex
+
+
+Pyro Options
+
+
+
+LyneyKleeXianglingHu TaoArlecchinoDilucYoimiyaGamingDehyaXinyan
+
+
+
+
+
+Flex Options
+
+
+
+VentiZhongliAlbedoYun JinFurina
+
+
+
+
+
+Example Mono Pyro Teams
+
+
+
+Ayaka — Bennett — Xiangling — Klee
+
+
+Bennett E > Ayaka tEP Q > Bennett Q E > Xiangling Q E > Ayaka hEP > Klee N1 E Q 4[N1C] N1 > repeat
+
+
+
+This is just one of several possible rotations.
+
+
+
+Ayaka — Bennett — Yoimiya — Zhongli
+
+
+(Yoimiya Q) > Zhongli hE (Q) > Bennett E Q > Ayaka hEP Q > Yoimiya E 3[N5] > Bennett E > Ayaka tEP > repeat
+
+
+
+Mono Cryo
+
+
+
+Ayaka — Shenhe — Cryo — Flex
+
+
+Mono Cryo becomes a potent team archetype with Shenhe. A shift from Freeze to Mono Cryo can allow such teams to increase their DPS against enemies that cannot be Frozen (such as Bosses). Nonetheless, Freeze tends to outperform Mono Cryo in AoE.
+
+
+
+Notable Mono Cryo Teammates
+
+
+
+        Cryo DPSCryo SupportFlex
+
+
+Cryo DPS Options
+
+
+
+AyakaGanyuWriothesleyRosariaKaeya
+
+
+
+
+
+Cryo Support Options
+
+
+
+ShenheLaylaRosariaKaeyaGanyuDionaChongyunCharlotte
+
+
+
+
+
+Flex Options
+
+
+
+ZhongliAlbedoVenti
+
+
+
+
+
+Example Mono Cryo Teams
+
+
+
+Ayaka — Shenhe — Ayaka — Layla 
+
+
+Ayaka D (first rotation) > Ayaka tEP Q > Shenhe tE N1 Q > Layla Q N1 E > Ayaka D E N 1Q > Ayaka tE > Shenhe E > Ayaka D N2CD E N2C > repeat
+
+
+
+Ayaka — Shenhe — Ganyu — Zhongli
+
+
+Ganyu E > Zhongli hE > Shenhe tE Q > Ayaka tEP Q > Ganyu CA E Q > Shenhe E N1 > Ganyu C > Ayaka tEP > Ganyu 2[C] > repeat
+
+
+
+Mono Hydro
+
+
+
+Ayaka — Hydro — Hydro — Flex
+
+
+While formerly difficult to justify, the introduction of multiple new Hydro units has given Mono Hydro teams a chance to shine, particularly due to the highly Energy-hungry nature of these units being resolved by running them together. However, these teams tend to be highly single-target oriented due to the nature of Yelan, Xingqiu, and Hydro Swirls.
+
+
+
+Notable Mono Hydro Teammates
+
+
+
+        HydroFlex
+
+
+Hydro Options
+
+
+
+XingqiuYelanKokomiAyatoNeuvilletteFurinaMonaCandace
+
+
+
+
+
+Flex Options
+
+
+
+ZhongliAlbedoYun JinBennett
+
+
+
+
+
+Example Mono Hydro Teams
+
+
+
+Xingqiu and Yelan
+
+
+
+Ayaka — Xingqiu — Yelan — Flex
+
+
+The Double Hydro core of Xingqiu and Yelan provides incredibly strong single-target, off-field damage. Their combined particle generation also lowers their ER requirements, which are typically quite high alone. An on-field Hydro DPS like Kokomi, Ayato, or Tartaglia can potentially be used, or a defensive Anemo or Geo unit like Jean or Zhongli.
+
+
+
+Example Team
+
+
+
+Ayaka — Xingqiu — Yelan — Kokomi
+
+
+Yelan E > Ayaka tEP > Kokomi E > Xingqiu E N1 Q > Yelan Q N1 > Ayaka tEP Q N1 > Yelan N1 E N1 > Kokomi Q 5[N3D] > repeat
+
+
+
+Kokomi can use N3 combos if she is C1+.
+
+
+
+Neuvillette and Furina
+
+
+
+Ayaka — Neuvillette — Furina — Flex
+
+
+The Double Hydro core of Neuvillette and Furina provides incredibly high damage in both single-target and multi-target scenarios. Neuvillette can build enough Fanfare stacks via his own HP fluctuation to make a healer unnecessary. A shielder is highly recommended at C0. Despite this, you can still play with a teamwide healer in the last team slot.
+
+
+
+Example Team
+
+
+
+Ayaka — Neuvillette — Furina — Zhongli
+
+
+Neuvillette E > Furina ED > Ayaka tEPQ > Zhongli hED > Furina Q > Neuvillette C E C Q > Ayaka tEP > Neuvillette 2[C]
+
+
+
+Neuvillette and Furina form an exceptional pairing that is amplified by Ayaka’s Hydro DMG% buff. Zhongli provides a valuable shield for C0 Neuvillette and for the team as a whole. Although this team lacks a healer, Neuvillette’s personal HP fluctuation is enough to stack Furina’s Fanfare.
+
+
+
+Ayato Hypercarry
+
+
+
+Ayaka — Bennett — Candace — Ayato
+
+
+Ayato Q > Bennett E Q > Candace E Q > Ayaka N1 tEP Q > Ayato E N15 > Ayaka N1 hEP > Candace E > Ayato E N15 > repeat
+
+
+
+This playstyle for Ayato is not recommended unless you have significant investment towards his build.
+
+
+
+Mono Electro
+
+
+
+Ayaka — Electro — Electro — Flex
+
+
+While Mono Electro teams do not deal as much damage as Aggravate, Electro-Charged, or Hypercarry alternatives, they free up highly-contested units for another team in Spiral Abyss. We do not suggest running Mono Electro teams when you can run Aggravate instead.
+
+
+
+Example Mono Electro Teams
+
+
+
+Ayaka — Kuki Shinobu — Fischl — Yae Miko
+
+
+Yae E E E > Ayaka N1 tEP Q > Fischl E/Q > Kuki Shinobu E Q > Yae 3[N2CJ] > Ayaka N1 tEP > (Yae Q) > repeat
+
+
+
+Yae uses her Burst every other rotation. Fischl alternates using her Skill and Burst.
+
+
+
+Electro Hypercarry
+
+
+
+Ayaka — Bennett — Electro Support — Electro DPS
+
+
+Ayaka can enable some Electro units to play a hypercarry playstyle where all the team's buffs increase that Electro character’s damage. His A4 Electro DMG buff, 4VV Electro RES Shred, and grouping make him a vital support for Electro hypercarries. 
+
+
+
+Raiden and Keqing hypercarry teams are the most popular of this archetype. If Ayaka absorbs Pyro into his Burst (which happens in preferred rotations), the team also procs significant amounts of Overload, which can become a nuisance in mob content.
+
+
+
+Example Electro Hypercarry Team
+
+
+
+Ayaka — Bennett — Lisa — Raiden 
+
+
+Raiden E > Ayaka hEP > Bennett Q > (Ayaka Q) > Lisa Q > Raiden Q 3[N3C] N1C > repeat
+
+
+
+This rotation lets Lisa use TTDS to further buff Raiden.
+
+
+
+Triple Anemo Teams
+
+
+
+Ayaka — Faruzan — Anemo DPS — Bennett / Shielder
+
+
+These teams lack units who can utilize the Elemental DMG Bonus from Ayaka’s A4, which allows him to fully commit to an ADC build. Ayaka can then utilize the range of available buffs and act as an off-field DPS, providing solid damage and valuable grouping.At C0, Faruzan provides healthy amounts of Anemo RES Shred and Anemo DMG Bonus, already making her potent. At C6, however, she gains huge boosts to her Energy generation, personal damage, and grouping capabilities as well as a 40% CRIT DMG buff for Anemo DMG.Bennett is by far the best option to round out these teams, as he provides additional buffs and healing; if he is firmly unavailable, units such as Thoma, Layla, or Zhongli can be considered.
+
+
+
+Notable Triple Anemo Teammates
+
+
+
+        AnemoFlex
+
+
+Anemo Options
+
+
+
+FaruzanWandererXiaoVentiLynette (C6)Xianyun
+
+
+
+
+
+Flex Options
+
+
+
+BennettZhongliLaylaThoma
+
+
+
+
+
+Example Triple Anemo Teams
+
+
+
+Ayaka — Faruzan — Wanderer — Bennett
+
+
+Faruzan E CA Q > Ayaka hEP > Bennett E Q > Ayaka Q > Wanderer CA E [preferred NA/CA combo] Q > Ayaka tEP > Bennett E > repeat
+
+
+
+Ayaka — Faruzan — Xiao — Zhongli
+
+
+Zhongli hE > Faruzan E CA Q > Ayaka Q hEP > Xiao E E Q [preferred Plunging Attack combo] > Ayaka tEP > repeat
+
+
+
+Ayaka — Faruzan — Venti — Bennett
+
+
+Bennett E Q > Faruzan E CA Q > Venti Q > Ayaka tEP Q > Venti E > Bennett E > Ayaka hEP > repeat
+
+
+
+
+
+
+Character Synergies
+
+
+
+Official Ayaka Art
+
+
+While I am still able to, I want to travel far and wide and meet all sorts of different people.
+
+
+
+This section discusses Ayaka’s synergies with notable teammates in most of their common team archetypes. If a character or team archetype is not listed, then Ayaka is not commonly played or recommended with them. Units are listed alphabetically, irrespective of their viability or damage output.
+
+
+
+Synergies are given a general rating of Excellent, Good, and Poor.
+
+
+
+
+Excellent indicates that Ayaka is a Best-in-Slot option for that unit in a variety of that character’s teams.
+
+
+
+Good means that Ayaka is viable with that unit.
+
+
+
+Poor means that you should avoid playing Ayaka with that character unless you lack other options.
+
+
+
+
+Please do not feel obligated to read everything in the synergy tables. They are intended to be a reference if you want to play a certain character with Ayaka.
+
+
+
+        Cryo Electro Hydro Pyro Anemo Dendro Geo 
+
+
+Cryo 
+
+
+
+AyakaSynergy: ExcellentFreezeAyaka is uniquely strong with Ayaka given his short-cooldown grouping, which allows him to promptly group the next wave of enemies. Ideal rotations with Ayaka and Ayaka let her use Ayaka’s buffs during her entire field time.Mono CryoAyaka greatly appreciates Ayaka’s buffs in Mono Cryo teams. With proper play, they allow Ayaka to better tackle Boss content that typically poses a roadblock for her.CharlotteSynergy: GoodFreezeCharlotte is primarily used with Furina in Freeze teams. There is little reason to run her over other Cryo support options otherwise.Mono CryoCharlotte’s healing could be valuable in Mono Cryo teams; however, Layla’s or Diona’s shields are preferred defensive utility for their additional interruption resistance.ChongyunSynergy: GoodChongyun’s unique C2 effect offers team cooldown reduction, which increases team DPS through shorter rotations or additional Skill uses (depending on the character).Reverse Melt In single-target scenarios in Reverse Melt Teams, absorbing Cryo into Ayaka’s Burst can prevent Chongyun from triggering Melt on every hit of his Burst.Forward MeltChongyun’s Cryo Infusion lets Bennett or Diluc trigger Forward Melts with their Skill after their Normal Attacks. You should try to absorb Cryo into Ayaka’s Burst. If you want to play a Melt DPS Bennett playstyle with Chongyun, do not unlock Bennett’s C6 since it overrides Chongyun’s Cryo Infusion.Mono CryoIn a niche circumstance with C6 Shenhe, Chongyun is uniquely poised to enable many on-field Mono Cryo DPS units. For example, Zhongli can infuse Cryo into his Normal Attacks and utilize C6 Shenhe’s Icy Quill effect along with Ayaka’s A4 Cryo DMG buff to deal tremendous damage.DionaSynergy: GoodDiona’s Burst at C6 increases Ayaka’s EM by 200 if he is on-field. The buff can snapshot onto his A4 Passive, but once he Swirls while off-field with his Burst, he loses Diona’s buff. It is not recommended to play around this mechanic.Freeze & Mono CryoFreeze teams generally don’t require defensive utility since enemies cannot attack, making Diona less necessary. Mono Cryo teams on the other hand can benefit greatly from a shield since enemies are no longer Frozen.Reverse Vape (Hu Tao)Diona can replace Zhongli as a shield option if you do not have him. Her shield is tied to her Elemental Skill, which makes it easy to maximize HP since you do not need to invest in ER.FreminetSynergy: GoodFreeze (Shatter)Ayaka is fantastic in Freminet’s Cryo DPS teams. Their Burst cooldowns are both 15s and Ayaka’s A4 buff is incredibly strong. C2 Ayaka’s EM buff provides a small DPS increase when Freminet triggers Shatter on-field; however, note that Freminet should not build full EM.GanyuSynergy: ExcellentFreezeGanyu appreciates Ayaka’s buffing and grouping, given that her damage in Freeze teams increases when enemies are grouped. Furthermore, Ayaka’s buffs make him one of the strongest support options for her, since Ganyu can snapshot them onto her Burst.Ayaka’s short field time and 15s Burst cooldown let Ganyu run 15s rotations so she can snapshot her own Cryo DMG buff into subsequent Bursts.In general, Ganyu prefers Venti over Ayaka to enable her pseudo-quadratic scaling and to refund her Energy with his Burst. But, Ayaka can definitely still be used!Mono CryoAyaka is key to making Ganyu’s Mono Cryo teams work (primarily with Shenhe or Rosaria) due to his A4 Passive. Mono Cryo gives weight to both Ganyu’s Burst and Charged Attacks while maintaining competitive damage. However, the loss of Freeze means she requires a shielder to reliably use her Charged Shots, with Layla, Diona, and Zhongli as options.Reverse MeltGanyu Melt teams with Ayaka are not recommended unless you can play near-perfectly or have C6 Ganyu. If you insist on playing it, feel free to read the section in our Ganyu Guide.Forward Melt (Bennett DPS)Ganyu can provide additional off-field damage and Cryo application with her Burst in Forward Melt Bennett teams. Her 20% Cryo DMG Bonus also benefits the other Cryo character, usually Rosaria or Chongyun.KaeyaSynergy: ExcellentAyaka plays well with Kaeya since they share the same Skill and Burst cooldowns. Kaeya’s Burst follows Ayaka when he uses his Elemental Skill and leaps into the air.FreezeKaeya’s high Energy generation, strong personal damage and short cooldowns work well in a Freeze team, whether as an on-field DPS with Chongyun, a quickswap DPS alongside Shenhe or Rosaria, or as an off-field support for Ayaka.Mono CryoKaeya can be a good off-field Cryo DPS in Mono Cryo teams, especially with Ayaka. However, using him over a defensive unit like Layla can make gameplay more difficult.Reverse MeltKaeya’s Burst can only trigger Melt a third of the time, but he still provides good off-field damage. While not as effective as Rosaria due to his Burst's ICD, Kaeya is still a functional option.Forward MeltKaeya is still sufficient to Melt all of Diluc and Bennett’s important hits. Additionally, his Burst orbits the active character, allowing for greater flexibility compared to Rosaria’s static Burst AoE.LaylaSynergy: ExcellentLayla’s short cooldowns work very well with Ayaka’s cooldowns. She provides the second strongest shield in the game (after Zhongli).FreezeLayla’s shield is mostly redundant if playing with a Hydro healer like Kokomi, so she may only be valuable with inconsistent Hydro appliers or with Ganyu. Mono CryoMono Cryo teams benefit greatly from Layla’s shield since enemies are no longer Frozen. For 100% shield uptime, rotations should be 24s.Triple AnemoLayla can be used as a shielder in Triple Anemo teams, opening up Bennett to be used in another team.RosariaSynergy: ExcellentRosaria benefits greatly from Ayaka’s buffs. They share the same Skill and Burst cooldowns, which allows for very smooth quickswap rotations. Ayaka’s grouping is especially important since Rosaria’s Burst AoE radius is quite small.FreezeRosaria’s low cooldowns, good particle generation, AoE Cryo damage, and CRIT Rate share through her A4 Passive make her a tremendous off-field Freeze DPS or support.Mono CryoRosaria can be an excellent choice for Mono Cryo compositions. Without Freeze, her CRIT Rate share is even more appreciated. However, using her with Shenhe and another Cryo DPS causes the team to lack a healer or shielder.Reverse MeltRosaria is the most recommended option for this team as she can Melt all ticks of her Burst and Skill while providing buffs with her CRIT share. With both Cryo and Pyro Swirled by Ayaka, Rosaria and Xiangling tend to contribute an equal sum of damage with equal investment at C6. With only Pyro Swirled, Xiangling’s damage contribution is higher and it is recommended to invest accordingly.Ayaka, Bennett, and Nahida together enable a BurnMelt playstyle, where Rosaria is dealing a majority of the team’s damage.Forward MeltRosaria is highly recommended to be at C2+ for Forward Melt teams.ShenheSynergy: ExcellentAyaka can trigger Shenhe’s Icy Quill effect by absorbing Cryo with his Elemental Skill and Burst, which offers a significant boost to his personal damage. Ayaka’s synergy with Shenhe is further improved by his Cryo DMG buff, which increases the damage done by her Icy Quill. FreezeShenhe is a fantastic choice in Freeze teams. However, Shenhe’s 20s Burst cooldown forces extended rotations, thereby preventing 15s Ganyu rotations. Despite this, her buffs more than make up for it.Mono CryoShenhe is the premier Cryo unit for a Mono Cryo team, due to her 15% Cryo RES Shred, various DMG Bonuses, and Icy Quill effect. Shenhe makes Cryo DPS units much more effective against enemies that cannot be Frozen (like Bosses).Reverse MeltShenhe provides substantial buffs to quickswap Cryo DPS units like Rosaria or Kaeya. She lets them front-load their damage, which can be useful for enemies with short DPS windows. In turn, they help lower her ER requirements.WriothesleySynergy: Excellent (Poor in Reverse Melt)It is strongly recommended to play with a healer or shielder in all of Wriothesley’s teams with Ayaka.Mono CryoWriothesley’s Mono Cryo teams with Ayaka are strong, especially with Shenhe in the party. Ayaka’s grouping is incredibly valuable due to Wriothesley’s limited range and AoE.FreezeWriothesley can be played in Freeze teams with Ayaka, typically with Xingqiu, Yelan, or Kokomi as the off-field Hydro applier. Reverse MeltAyaka is not as strong in Wriothesley’s Reverse Melt teams since it is basically impossible to get a consistent Cryo Swirl immediately before Wriothesley’s damage window. Ayaka is essentially there for additional Pyro application and to buff Xiangling (or Thoma).A Burnmelt team with Wriothesley — Nahida — Bennett — Ayaka is possible, but Ayaka is primarily there for Pyro application to maintain Burning. You’re better off using Xiangling or Thoma instead of Nahida.
+
+
+
+
+
+Electro 
+
+
+
+BeidouSynergy: GoodBeidou excels in multi-target scenarios (particularly against two enemies) and takes good advantage of Ayaka’s grouping and buffs. To play Beidou optimally, you need to weave in Normal Attacks throughout the rotation to trigger her Burst.If Ayaka is driving Beidou’s Burst, he should use N2D combos. He can proc Beidou’s Burst up to 12 times with consistent inputs and dash canceling.AggravateBeidou can work in Aggravate teams, particularly against multiple enemies. Note that Beidou still uses a typical ADC build due to her extremely high Talent multipliers.Hyperbloom Beidou’s Burst does not target Dendro Cores after its initial cast, unlike other Electro off-field options. Her enemy-focused Electro application lets Ayaka consistently trigger Hyperblooms with his Electro-absorbed Burst and Electro Swirls. In these teams, she needs a lot of ER as the sole Electro, although Favonius Sword on Ayaka and other teammates can alleviate this issue.Electro-ChargedBeidou’s rapid AoE Electro application from her Burst can steal Electro-Charged triggers from Ayaka. However, her personal damage more than compensates for this.Mono Electro & Electro HypercarryBeidou is an effective off-field DPS in Mono Electro teams, especially in multi-target scenarios. With Kujou Sara and Bennett, Beidou can act as a Hypercarry against two enemies; however, this still requires significant investment to compete with other Electro options.CynoSynergy: PoorAggravateCyno in Aggravate with Ayaka can be difficult to play without a shielder, where the only recommended Dendro option is Baizhu. Without a shield, Cyno would deal less damage because frequent dodging disrupts his Normal Attacks and Skill uses.HyperbloomCyno can be an on-field Electro unit for Hyperbloom. However, opting for Ayaka in the last team slot prevents you from using an Electro battery like Fischl. Furthermore, Cyno’s long field time prevents Ayaka from getting two Skill uses in without extending the rotation. For these reasons, Favonius weapons are highly recommended in the team, perhaps even on every teammate.DoriSynergy: PoorAggravate, Electro-Charged, & Mono ElectroDori can serve as a healer in teams with Ayaka, albeit worse than Kuki Shinobu. Dori’s inefficacy with 4pc TotM, poor reaction triggering, limited Burst range, and high ER requirements prevent her from being a worthwhile option. Despite these drawbacks, her C6 still lets her work as a quickswap unit alongside Ayaka and Fischl. FischlSynergy: ExcellentFischl is an extremely strong Electro option in Ayaka’s teams due to her high personal damage and rate of Electro application. She also helps battery the team with her particle generation.Fischl’s unique Skill cooldowns and Burst refresh means that she has three primary rotation lengths with Ayaka. • A 15s rotation is used if every character on the team can fit that rotation window. Fischl can alternate Skill and Burst uses in these rotations.• A 20s rotation is used with on-field DPS units who have a 20s Burst cooldown. There is usually downtime with Oz in these rotations.• A 25s rotation is used primarily with Keqing or Tighnari, who have a 12s Burst cooldown. This rotation allows for maximum Oz uptime and lowers Ayaka’s ER requirements.Aggravate & SpreadFischl’s high rate of Electro application allows Ayaka to more consistently Swirl and absorb Electro, even with high rates of Dendro application from a single Dendro unit.HyperbloomFischl’s Electro application and Oz’s tendency to prioritize enemies allows Ayaka to obtain a significant ownership of Hyperbloom reactions, making her a strong option in these teams.Electro-ChargedFischl is the premier Electro unit for Electro-Charged, condensing unmatched single-target Electro application and particle generation alongside high personal damage. Her Electro application being single-target is significant, as it allows Ayaka to reliably Swirl Electro from one target onto surrounding ones. Alongside the AoE Hydro application from Ayaka’s Burst, he can trigger Electro-Charged reactions, which deal high damage due to his EM build priority.Anemo OvervapeFischl is the standard Electro option for Anemo Overvape teams due to her high Electro application and personal damage. With many Electro reactions taking place, Fischl can maximize the potential of her A4 Passive. Her strength in this team is unmatched.Reverse Vape (Overvape Hu Tao)Fischl is a strong off-field DPS option for Hu Tao since her Electro application allows Hu Tao to trigger both Overload and Vaporize. Note that playing Fischl, Ayaka, and Xingqiu together with Hu Tao renders the team without a shield.Mono Electro & Electro HypercarryFischl’s high personal damage and unmatched Electro Particle generation make her an excellent choice to pair with Electro DPS units. Fischl is also a viable alternative to Lisa or Sara in Raiden Hypercarry teams.KeqingSynergy: ExcellentKeqing’s low Skill and Burst cooldowns align well with Ayaka’s cooldowns, allowing for a 15s or 25s rotation.AggravateKeqing is an excellent Aggravate on-field or quickswap DPS that coordinates well with Ayaka’s short cooldowns. She offers high personal damage due to her frequent Aggravate procs. She can use 4pc Thundering Fury well.Mono Electro & Electro HypercarryKeqing does not have the raw strength of other DPS units; nonetheless, she can still be played in a Hypercarry playstyle alongside Bennett and Kujou Sara.Kujou SaraSynergy: ExcellentMono Electro & Electro HypercarrySara is fantastic for Electro DPS units due to her buffs, especially at C6. She can also hit quite hard with her Elemental Burst. Sara is Raiden’s premier Electro support particularly at C6, and she is strong with Keqing, who can make full use of her buffs with her flexible field time.AggravateAggravate’s Additive Reaction DMG does not scale with Sara’s Flat ATK buff, but it does scale with her C6 CRIT DMG buff. Sara is best used as an additional buffer for on-field Keqing and Raiden Aggravate team compositions. However, her buffs generally won't provide as much damage for the team as an off-field DPS like Fischl. Kuki ShinobuSynergy: GoodWhile Kuki Shinobu’s off-field damage and particle generation is not as great as Fischl’s, her role consolidation as a good healer and consistent AoE Electro applier comfortably opens up other teammate options. Aggravate & SpreadKuki Shinobu is a good option if you require healing but want to run a non-healer Dendro unit. While she can build purely for support, a more DPS-oriented Aggravate build can increase her team’s DPS potential.HyperbloomAyaka and Kuki Shinobu can be played together in a Hyperbloom team, where Ayaka provides grouping, 4VV RES Shred, and his A4 Passive Elemental DMG Buff (mostly for the Hydro applier). They “steal” Hyperbloom reactions from each other if Ayaka absorbs Electro into his Burst, but since he should build for EM anyway, this isn’t a significant DPS loss.Electro-ChargedShinobu’s role consolidation as a good healer and consistent Electro applier with low cooldowns lets her work incredibly well in quickswap Electro-Charged teams.Mono Electro & Electro HypercarryIn Ayaka’s Mono Electro teams, Kuki Shinobu’s healing and particle generation can leverage lower ER requirements for units such as Beidou and Yae Miko. As one of two Electro defensive units, she is much appreciated in Mono Electro where the only other defensive options are found in Geo and Anemo units.In Hypercarry teams, she can be used for her 4pc TotM buff, but it is a severe downgrade from options like Sara or Lisa.LisaSynergy: GoodAggravate & Spread / Electro-Charged / Mono Electro / Electro HypercarryWhile often overlooked, Lisa is a good option; her personal damage isn't terrible and her DEF Shred is a nice boost to team damage. Moreover, she can hold TTDS to give an ATK% buff to the primary DPS. She is particularly potent in AoE scenarios at C4, which alongside Ayaka’s grouping, gives her pseudo-quadratic scaling. While Lisa is competitive with pre-C6 Kujou Sara on Raiden Hypercarry teams, she is not as recommended in Keqing’s Hypercarry teams.Raiden ShogunSynergy: ExcellentAggravateRaiden’s Aggravate teams can be competitive with her other non-Hyperbloom options. Despite Aggravate scaling with EM, Raiden should still focus on ATK%, CRIT, and ER stats.HyperbloomRaiden is the premier off-field Electro applier for the Hyperbloom archetype. Raiden’s frequent Electro application ensures her a greater share of Hyperbloom procs than Ayaka with an Electro-absorbed Burst. Nonetheless, Ayaka provides grouping, 4VV RES Shred, and his A4 Passive Elemental DMG buff for the Hydro appliers. While Raiden doesn’t benefit much from them, these buffs can still be worthwhile if you lack other options.Mono Electro & Electro HypercarryRaiden is an extremely potent on-field DPS unit, scaling incredibly with Ayaka’s buffs. Not only does she battery Ayaka to massively decrease his ER requirement, she also has a roughly 10s DPS window that lets her take near full advantage of his A4 buff and 4VV RES Shred, provided Ayaka Swirls Electro immediately before she takes the field.Electro-ChargedWhile generally outclassed by Fischl as an off-field Electro unit in Electro-Charged teams, Raiden can be a decent on-field DPS with appropriate buffs. Raiden’s Electro application, while frequent and consistent, still results in lower team damage than Fischl at similar investment.Anemo OvervapeRaiden can serve as an on-field DPS unit in Anemo Overvape teams when paired with an off-field Hydro unit like Xingqiu or Yelan. While on-field in her Burst state, she applies Electro on-field and procs her Hydro unit’s Burst, which leads to high uptime on Electro-Charged auras that Ayaka’s Pyro-absorbed Burst can react with.RazorSynergy: PoorAggravateRazor can trigger Aggravate on his Skill, Burst, and C6. Notably for Razor, he can still deal good Physical DMG with his Normal Attacks on top of his Aggravated Electro damage. However, Razor’s long field time means he cannot make use of 4VV Electro RES Shred for the entirety of his Burst.HyperbloomRazor can be used as an on-field Hyperbloom trigger, but in teams with Ayaka, Razor's ER requirements will be extremely high since Ayaka takes the place of an Electro battery like Fischl.Yae MikoSynergy: GoodYae Miko’s Totems do not snapshot, so Ayaka can Swirl Electro before or after she places them, which allows for more flexible rotations.Aggravate & Spread / Electro-Charged / Mono Electro / Electro HypercarryYae Miko greatly appreciates Ayaka’s buffs. Her 14s Skill duration aligns with Ayaka’s Burst cooldown nicely. Her high ER requirements mean it may be best to use her Burst every other rotation.HyperbloomYae Miko’s Skill prioritizes enemies before Dendro Cores, meaning Ayaka’s Electro-absorbed Burst would be the primary Hyperbloom trigger for the team. However, Yae can still steal some Hyperbloom procs occasionally.Note on Burst:• Burst every two rotations: Yae Miko’s high ER requirements mean it is better to just use her Burst when you have it available.• If you want to use Yae’s Burst while her totems are still up, you need to modify your rotation to fit the Burst in time.• In 15s rotations, you need to drop 1s of the rotation to fit her Burst in before the Totems expire and extend the following rotation by 1s prior to using Ayaka’s Burst (due to its 15s cooldown).
+
+
+
+
+
+Hydro 
+
+
+
+AyatoSynergy: ExcellentAyato deals a good amount of on-field damage with his Skill and off-field damage with his Burst, especially with Ayaka’s grouping. Additionally, Ayato’s field time and cooldowns synergize well with Ayaka.Anemo OvervapeAyato is an excellent choice in Anemo Overvape teams since his field time and cooldowns allow Bennett, Fischl, and Ayaka time to use their Skills without cutting into team DPS.Electro-ChargedAyato’s fast Normal Attacks work well to drive off-field teammates like Fischl or Beidou. However, he requires specific rotations to play optimally due to his Skill cooldown. Additionally, 4TF Ayato builds are possible and fun, extending his field time and increasing his rotation flexibility.Reverse VapeAyato is a competitive on-field Hydro enabler in Reverse Vape teams. Ayaka generally Swirls Pyro and Hydro at different points in the rotation, limiting the windows when Ayato can use Ayaka’s buffs. Nonetheless, Ayato’s smooth patterns of 6s of uptime and 6s of downtime combined with his ease of use remove much of the rotation difficulties other options can possess.HyperbloomAyato is a good Hydro unit in Hyperbloom teams due to his AoE Hydro application and personal damage. Ayato should use his Skill twice per rotation to meet his ER needs. BurgeonAyato slots well into Burgeon teams with Thoma or Bennett with Ayaka being the Burgeon trigger. Ayato can usually get in 2 Skill uses per rotation. Favonius weapons can help alleviate his ER requirements if he only uses 1 Skill per rotation..Mono Hydro & Hydro HypercarryAyato is a suitable on-field or quickswap DPS unit in these teams.FreezeWhile other Ayato teams generally deal more damage, Ayato benefits heavily from Ayaka’s consistent grouping in Freeze teams since Frozen enemies are immobile. Ayato can serve as an off-field Burst DPS or as a quickswap DPS in certain rotations. Despite his availability, other units like Mona or Kokomi provide better buffs or AoE Hydro application, leading to more damage or Freeze uptime.BarbaraSynergy: PoorBarbara can be used as an on-field Hydro applier and healer. Her off-field Hydro application is quite poor and should not be heavily considered in teambuilding.HyperbloomBarbara can work in Ayaka’s Hyperbloom teams as an on-field Hydro applier and healer.BurgeonBarbara’s healing is particularly valuable in Burgeon teams due to the self-inflicted damage. Her poor off-field Hydro application means she should remain on-field, with Ayaka’s Burst absorbing Hydro if there is a different Burgeon trigger. Barbara is not recommended in teams where Ayaka is the Burgeon trigger.Electro-ChargedBarbara is a suboptimal choice in Electro-Charged due to her insufficient off-field Hydro application in terms of frequency and range. Nonetheless, she still allows the bare minimum for a traditional Electro-Charged team or 4TF Ayaka team to function. With Hakushin Ring, she can buff the Electro units.FreezeBarbara is a free-to-play Hydro option for Freeze, but her poor Hydro application, long cooldowns, and non-existent damage make her generally worse than every other option. Nonetheless, her ability to hold TTDS can buff her Cryo DPS partner.CandaceSynergy: GoodCandace’s Hydro application is functional yet difficult to optimize, requiring frequent swapping between melee characters to apply Hydro with their Normal Attacks. At C6, her Hydro application increases and becomes more manageable to play with.Mono Hydro & Ayato HypercarryCandace is a viable unit to play with Hypercarry Ayato, beating out Yun Jin in multi-target scenarios. While her Hydro Infusion creates unique opportunities for non-Hydro characters like Ayaka or Zhongli to deal Hydro DMG with their Normal Attacks, this is mostly a gimmick in Mono Hydro. Other units like Xingqiu, Yelan, or Kokomi should be used instead.HyperbloomCandace’s slow Hydro application allows high Quicken uptime to boost damage through Aggravate and Spread. At C6, there is a shift to lower Quicken uptime in exchange for higher Dendro Core production.BurgeonCandace’s low rate of Hydro application can potentially cause Burning to occur, limiting Dendro Core production. Quickswapping with weaved Normal Attacks is necessary to mitigate Burning uptime.Reverse Vape (Hu Tao)C6 Candace is a viable Hydro support for Hu Tao with Yelan or Xingqiu, which allows one of them to be used on another team. Double Hydro Resonance provides a large buff for both Hu Tao’s and Yelan’s damage. Candace also provides a moderate buff to Hu Tao’s Normal Attacks, which Hu Tao can take greater advantage of by doing N2C combos.FurinaSynergy: ExcellentMost teams with Furina require a strong healer; however, teams with Neuvillette in particular function fine without one thanks to his own HP fluctuation.Mono Hydro & Electro-ChargedFurina pairs excellently with on-field DPS units like Neuvillette and Kokomi.FreezeFurina works as a Hydro support for units like Ayaka, Ganyu, and Wriothesley; however, these teams basically require Charlotte or Mika as the Cryo support for her teamwide healing since running Ayaka makes running an Anemo healer impossible.Reverse VapeFurina’s Hydro application and DMG% buff makes her a good unit to bring along in Reverse Vape teams. For teams that require a healer, Bennett is the go-to option. One notable exception is Hu Tao, thanks to her Burst HP regeneration; Hu Tao can safely play in a team like Hu Tao — Furina — Yelan — Ayaka (Ayaka only consistently Swirls Hydro). Note that Furina’s variable Hydro application means she will often want a second Hydro teammate to ensure consistent Vapes.Other TeamsFurina is a general buffing support option in a variety of other archetypes with strong healer options. She can buff “hypercarries” like Raiden, pair with Alhaitham in a “Quickbloom” team, or serve in “Mono Pyro” teams with Yoimiya and Klee.KokomiSynergy: ExcellentAyaka’s grouping and buffs can maximize Kokomi’s potential. Kokomi can provide buffs through her artifact set (4pc TotM, 4pc Deepwood Memories, etc.) and weapon choice (TTDS or Hakushin RIng).FreezeKokomi’s consistent AoE Hydro application and significant ATK buff through TTDS and 4pc TotM make her an amazing option for Freeze teams, if not the best. However, Kokomi’s longer Skill cooldown can lengthen Ganyu’s rotations with Ayaka.Electro-ChargedKokomi is a decent on-field driver or off-field Hydro applier for Electro-Charged. With Hakushin Ring, she can further buff her Electro teammates’ Electro DMG. Rotations involving Kokomi can be tight if attempting to maintain high uptime on her Bake-Kurage, which is important for her Energy management.Kokomi’s AoE Hydro application is extremely valuable for 4TF Ayaka, allowing him to consistently proc Electro-Charged. She is a fantastic option for this playstyle.Mono HydroKokomi is an incredibly strong option in Mono Hydro teams due to her role consolidation. As one of the few defensive options available, she is strongly recommended for comfort and as an on-field driver if played with Xingqiu and Yelan in Mono Hydro.HyperbloomKokomi’s AoE Hydro application allows consistent and frequent Dendro Core production. Her healing can also help offset the errant self-inflicted damage from Hyperbloom.BurgeonKokomi is a strong option in Burgeon teams due to her fantastic healing, AoE Hydro application, and on-field driving potential (if played with Thoma). She is good with Ayaka Burgeon but will need to stay on-field to apply enough Hydro.MonaSynergy: GoodFreezeYou should be careful when using Ayaka with Mona. Ayaka can trigger Shatter during his Plunging Attack which limits Freeze uptime, so it is best to use only his Skill and drop to the ground without plunging if you are using his Skill after Mona in the rotation.NeuvilletteSynergy: ExcellentElectro-ChargedAyaka’s short field time and ability to Double Swirl Hydro and Electro off an Electro-Charged aura is incredibly powerful in Neuvillette’s Electro-Charged teams. Ayaka typically uses three Skills per rotation.HyperbloomNeuvillette’s personal damage is buffed tremendously by Ayaka’s A4 Hydro DMG buff and 4pc Viridescent Venerer RES Shred. However, getting consistent Hydro Swirls can be almost impossible with Nahida on the team.VaporizeNeuvillette’s Vaporize teams with Xiangling in particular benefit greatly from Ayaka’s ability to Double Swirl Hydro and Pyro. Ayaka’s Burst should absorb Pyro in rotations to allow Neuvillette to trigger Vaporize consistently.FreezeNeuvillette is a viable on-field Hydro unit in Freeze teams with two off-field Cryo units like Rosaria, Ganyu, or Layla.Mono Hydro (Hypercarry)Neuvillette’s Mono Hydro (Hypercarry) team options with Ayaka and Furina are great. The last team slot is quite flexible with options like Zhongli, Baizhu, and Fischl.TartagliaSynergy: Excellent (Reverse Vape Only) / GoodReverse VapeTartaglia is the premier on-field Hydro option for Xiangling Reverse Vape teams. He applies so much Hydro that he can enable both Xiangling and Ayaka to near-consistently Reverse Vaporize their Pyro damage. Moreover, Tartaglia can also Vape his Elemental Burst for huge upfront damage.HyperbloomTartaglia’s Hyperbloom teams, while viable, may not be the best use case for him due to his Skill’s downtime. His extremely high rates of Hydro application prevent Quicken uptime for off-field Electro units like Fischl.BurgeonTartaglia’s on-field Hydro application greatly diminishes Burning uptime, which enables more Dendro Core production. However, downtime without Charged Shots can limit his viability. Tartaglia’s lack of off-field presence is less noticeable with Ayaka due to Ayaka’s low uptime on his Pyro application. You can also Vaporize Tartaglia’s Burst in this team.Anemo OvervapeTartaglia’s Ranged Burst allows him to frontload a massive amount of damage if you successfully Vaporize it. His tremendous Hydro application enables highly consistent uptime on both Hydro and Electro auras on enemies, allowing Ayaka’s Pyro-absorbed Elemental Burst to trigger many chain reactions.FreezeSimilar to Ayato, Tartaglia Freeze tends to not be among his highest damage teams, but the gameplay advantages they provide may make them worthy of consideration.XingqiuSynergy: ExcellentWhile Xingqiu cannot snapshot buffs onto his Burst, he can enjoy the Hydro RES Shred from 4VV and the Hydro DMG buff from Ayaka’s A4 Passive. Note, however, that Xingqiu’s damage reduction does not increase with Ayaka’s A4 buff.Xingqiu and Yelan pair excellently together to enable Hydro Resonance and lower each other’s ER requirements. This core is commonly known as “Double Hydro” and is incredibly potent in Mono Hydro, Reverse Vape, and Electro-Charged teams.Reverse VapeXingqiu is a great option for off-field Hydro enabler in Reverse Vape teams, but even at C6 his Hydro application is not strong enough to maintain Hydro aura on enemies if Ayaka’s Burst is absorbed with Pyro. However, some rotations allow Ayaka to absorb Hydro into his Burst.Mono HydroXingqiu’s Double Hydro core with Yelan is key to the Mono Hydro archetype.HyperbloomXingqiu's high off-field single-target damage and Hydro application make him very valuable for Hyperbloom teams.BurgeonXingqiu’s high rate of off-field Hydro application combined with defensive utility from his Rain Swords make him a strong option in both quickswap variants of Burgeon or if using on-field Nahida in tandem with a Hydro-absorbed Ayaka Burst. However, Xingqiu’s single-target Hydro application can cause Burning to occur in multi-target scenarios, which limits Dendro Core uptime. Also note that Xingqiu’s damage reduction does not mitigate self-inflicted Burgeon damage. FreezeXingqiu’s single-target Hydro application limits Freeze uptime considerably against multiple targets. Even with Ayaka’s grouping to apply Hydro via his orbitals, it is still insufficient uptime for Cryo DPS units. Electro-ChargedXingqiu’s damage and high rate of single-target Hydro application allow him to slot comfortably into this archetype. Furthermore, his damage reduction and increased interruption resistance (especially when paired with Beidou) can enable his team to be played without a healer or shielder.In a 4TF Ayaka team, Xingqiu is suboptimal to Kokomi since you need to weave in Normal Attacks to proc his Burst, which limits the number of Ayaka’s Skills you can perform in a certain timeframe.Anemo OvervapeXingqiu’s high amount of Hydro application and good personal damage let him slot in well with an on-field Electro unit like Raiden Shogun. With Fischl, he can attack on-field to take advantage of Bennett’s buff.YelanSynergy: ExcellentYelan is an incredibly potent single-target off-field Hydro DPS unit that also provides a ramping DMG buff to her team. Absorbing Ayaka’s Burst with Hydro helps supplement Yelan’s Hydro application, especially in AoE scenarios. Additionally, Ayaka’s Hydro DMG buff can allow Yelan to run an HP Goblet (depending on substats and available options, of course).Xingqiu and Yelan pair excellently together to enable Hydro Resonance and lower each other’s ER requirements. This core is commonly known as “Double Hydro” and is incredibly potent in Mono Hydro, Reverse Vape, and Electro-Charged teams. Reverse VapeYelan and Ayaka work well together in Reverse Vape teams as they reliably maintain the Hydro aura. Rotations where you Swirl both Hydro and Pyro are still possible. Depending on who the other two units are, the rotation can be shortened to 18s, with varying difficulty.Yelan’s single-target Hydro application before C2 puts her at odds with Xingqiu, who has higher Hydro application with his orbitals and at C6. Note that Yelan can make Double Swirl setups easier than Xingqiu since she doesn’t have orbitals. Nonetheless, Ayaka’s Hydro-absorbed Burst can supplement the gaps in her application.Mono HydroYelan is great in Mono Hydro, especially when paired with Xingqiu and Kokomi who can drastically reduce her ER requirements, which allows her to invest more into damage. Her ramping A4 DMG buff also increases the on-field character’s damage significantly.HyperbloomYelan’s Hydro application is enough to produce Dendro Cores in single-target scenarios. With Alhaitham or on-field Nahida, she allows a simultaneous Quicken aura.Electro-ChargedYelan’s damage and single-target Hydro application allow her to be viable in Electro-Charged teams. Furthermore, her A4 DMG buff is quite welcome. With consistent procs of her Burst, Ayaka can Swirl Electro-Charged auras and create chain reactions. She can also serve as an on-field driver.Note that Electro-Charged teams with on-field units (like Kokomi) benefit more greatly from Yelan’s ramping A4 buff, while quickswap-oriented teams (like 4TF Ayaka) do not.Anemo OvervapeMuch like Xingqiu, Yelan can be slotted into Anemo Overvape teams with an on-field Electro DPS unit like Raiden Shogun.FreezeWhile Yelan’s A4 buff can seem desirable for Cryo DPS units, it only applies to the on-field character and cannot be snapshot. This means that a Cryo DPS like Ayaka would have to stay on-field to take full advantage of the buff, when she could swap off during her Burst’s duration to allow Ayaka or Shenhe to refresh their buffs.
+
+
+
+
+
+Pyro 
+
+
+
+AmberSynergy: GoodReverse Vape (Hu Tao)Amber is a great support for Hu Tao due to her ability to fully clear Hydro auras with her Burst, which enables Ayaka to consistently get Pyro Swirls before swapping to Hu Tao. She can hold Elegy for the End or Favonius Warbow. However, Amber’s lack of defensive utility makes her Hu Tao teams more difficult to play.BennettSynergy: ExcellentBennett is an incredible Pyro unit, capable of providing healing, a Flat ATK buff, and strong Pyro application. His short Skill cooldown allows him to battery Pyro units like Xiangling. Bennett enables many of Ayaka’s team compositions with Pyro-related reactions. To take full advantage of his buffs, you must consistently stay within his Burst AoE, which means Ayaka can be valuable to group enemies closer. In many team compositions, Ayaka snapshots Bennett’s Flat ATK buff into his Burst, leading to higher personal damage. Note that Bennett’s C6 overrides Ayaka’s C6.Mono PyroBennett is an essential part of almost all Mono Pyro teams with his healing, buffs, and Pyro application. At C6, he can enable units like Xinyan, Dehya, or Ayaka himself to deal Pyro damage with their Normal Attack Talent.Elemental Hypercarry & Triple AnemoBennett is the premier support unit for ATK-scaling DPS units that can serve as a team’s on-field Hypercarry, such as Raiden Shogun, Wanderer, or Xiao.Reverse VapeBennett is fantastic in Reverse Vape teams due to his aforementioned utility. However, his self-applied Pyro aura from his Burst requires specific setups so Ayaka can Swirl both Hydro and Pyro.Forward MeltThis playstyle is not possible with Chongyun if Bennett is at C6, since his Pyro Infusion overrides Chongyun’s. Even with other Cryo options, his Pyro Infusion steals Melts from his higher-damage Skill.Bennett’s Pyro short Tap Skill cooldown within his Burst allows him to consistently trigger Melt with off-field Cryo units like Chongyun and Rosaria. Ayaka’s Pyro-absorbed Burst steals Melts from Bennett, so you should avoid using it. Reverse MeltBennett is essential to Reverse Melt teams of any variation. In quickswap Reverse Melt teams (like with Rosaria, Chongyun, or Kaeya), C6 Bennett and Ayaka provide enough Pyro application that Xiangling can be replaced with someone like Shenhe.Anemo OvervapeBennett, as usual, is essential to Anemo Overvape teams, as he allows Ayaka to absorb Pyro into his Burst, leading to many reactions.BurgeonWith Bennett, Ayaka can act as the primary Burgeon trigger by absorbing Pyro into his Burst. Ayaka’s Burst duration is much shorter than Bennett’s; this causes DPS windows to condense to a short time that should be played around.DehyaSynergy: GoodMono PyroDehya can be played as an on-field Pyro DPS in Mono Pyro compositions; however, her personal damage share is lower than other on-field DPS options like Klee or Hu Tao.Reverse Melt (Ganyu)Dehya’s Skill, in conjunction with Ayaka’s Pyro-absorbed Burst, provides enough Pyro application for Ganyu to consistently Melt her Charged Shots. Her interruption resistance is incredibly valuable for Ganyu, but it has shorter uptime than other defensive options like Zhongli. As an off-field support, she does not need to use her Burst and should use 4pc TotM.Reverse VapeDehya can be used as a defensive Pyro support with her Skill. However, without sufficient Hydro application from the Hydro unit or a Hydro-absorbed Ayaka Burst, she can steal Vapes and deplete the Hydro aura, resulting in a DPS loss.DilucSynergy: ExcellentReverse VapeAbsorbing Ayaka’s Elemental Burst with Hydro is key to preventing Diluc from losing Reverse Vapes. This setup can be difficult because Ayaka will need to cast his Elemental Burst with no Pyro on enemies before Bennett's Burst since he would absorb Pyro otherwise.Forward MeltDiluc’s slow and controlled Pyro application lets him Forward Melt a good portion of his damage. The playstyle requires strict rotations and adherence to combos since it is difficult to re-establish a Cryo aura on the enemy if Diluc overtakes it with Pyro. Furthermore, Ayaka absorbs Pyro into his Burst in subsequent rotations if the Cryo aura is lost.Mono PyroDiluc is a viable on-field Pyro DPS in Mono Pyro teams; he also benefits greatly from C6 Bennett in this composition. GamingSynergy: GoodGaming prefers Xianyun over Ayaka in any of his teams. Xianyun’s Additive Plunging Attack DMG Bonus and ability to enable additional Gaming Plunging Attacks results in higher damage output. Nonetheless, if Ayaka can trigger a Pyro Swirl, he is a viable alternative.Mono PyroGaming’s Mono Pyro teams with Ayaka are among his easiest to play with viable damage. Xiangling and Bennett are usually the preferred teammates.Reverse VapeAyaka must Swirl Pyro and avoid absorbing Hydro into his Burst when played with Gaming in a Vape team. Furina and Bennett are usually the preferred teammates.Hu TaoSynergy: ExcellentReverse VapeAyaka is one of Hu Tao’s preferred Anemo supports for her Vape teams, along with Sucrose. In VV Vape teams, Ayaka Swirls Pyro to buff Hu Tao and absorbs Hydro to maintain Hydro auras on enemies. To consistently Swirl Pyro, Hu Tao requires a Pyro support for Ayaka to Swirl. However, while Hu Tao VV Vape has a high damage ceiling, it can be difficult for you to consistently perform Double VV setups and stay alive depending on the Pyro support.In teams without a Pyro support, like Double Hydro, Hu Tao does not benefit much from Ayaka since he cannot reliably Swirl Pyro; however, units like Yelan and Xingqiu do.For more information on Hu Tao VV Vape setups with Ayaka, visit the Hu Tao Extended Guide.Mono PyroHu Tao is viable in Mono Pyro team compositions, taking advantage of Bennett’s and Ayaka’s buffs.KleeSynergy: ExcellentMono PyroMono Pyro is Klee’s most recommended playstyle, and Ayaka’s A4 DMG buff contributes greatly to its high damage floor.LyneySynergy: ExcellentMono PyroAyaka’s A4 Passive is incredibly powerful in Lyney’s Mono Pyro teams. In single-target scenarios, Ayaka should alternate using his Skill and Burst every other rotation since it lets Lyney fit in 1 more Charged Shot, which results in higher team DPS. In multi-target scenarios, the Pyro Swirls from Ayaka’s Burst are powerful enough to warrant its use every rotation.ThomaSynergy: GoodBurgeonAyaka can use his Elemental Skill to group Dendro Cores and enemies, allowing Thoma to deal Burgeon damage more easily. In this team, Ayaka should absorb Hydro with his Elemental Burst, which prevents Burning from occurring and makes Thoma the sole Burgeon trigger. Reverse VapeAyaka’s Hydro-absorbed Burst can compensate for his additional Pyro application in Hu Tao and Yoimiya teams. Despite this, some units like Diluc or Hu Tao may still not Vape all of their hits with a pre-C6 Xingqiu or pre-C2 Yelan.Triple AnemoThoma is a decent shielder with Wanderer. His Pyro application lets Wanderer gain an ATK% buff via his A4 Passive and lets Ayaka absorb Pyro into his Elemental Burst. Using Thoma can also free up Bennett for another team, although the team’s damage generally suffers.XianglingSynergy: ExcellentXiangling is a potent off-field Pyro DPS that can snapshot Ayaka’s and Bennett’s buffs onto her Burst. Her lack of ICD on her Burst (after its ramping hits) allows her to trigger reactions on every hit. However, her high ER requirements mean she also requires Bennett in all of her teams with Ayaka.Reverse VapeXiangling is the premier off-field Pyro DPS in Reverse Vape teams. In conjunction with strong Hydro application from units like Tartaglia or Xingqiu and buffs from Bennett and Ayaka, Xiangling can deal tremendous and consistent damage in both single-target and AoE scenarios.Reverse MeltIn Reverse Melt teams, Xiangling and Ayaka provide more than enough Pyro application for a Cryo DPS to trigger Melt. It is not recommended to run Ayaka and Xiangling together with pre-C6 Ganyu since the team lacks a shield.Mono PyroXiangling benefits from increased Pyro Particle generation in Mono Pyro, which lowers her ER requirements and allows her to invest more into CRIT and ATK stats. Furthermore, her C6 buff, which her own Burst cannot enjoy, provides a nice buff for her Pyro teammates. OverloadXiangling can be used in an Overload team with Ayaka and Bennett with an Electro DPS, usually Fischl or Raiden (who uses this more as a Hypercarry alternative).XinyanSynergy: GoodReverse Vape (Hu Tao)Xinyan enables VV Vape Hu Tao with her Burst’s Pyro application. However, her Shield Strength is subpar compared to other options, and her level 3 shield’s Pyro application generally steals Vapes unless you have a Hydro-absorbed Ayaka Burst. At C2, Xinyan needs to use her Elemental Burst before her Skill, to avoid this issue. Her Elemental Burst triggers a level 3 shield and casting her Skill afterwards overrides it with a lower-level shield.Reverse Melt (Ganyu)Xinyan works as an additional Pyro applier in Ganyu’s Melt teams with Ayaka, but she requires C2 or higher to reliably fulfill this role. Mono PyroWith C6 Bennett, Xinyan can be played as an on-field Pyro DPS, albeit worse than other options.YanfeiSynergy: GoodMono PyroYanfei is a viable on-field Pyro DPS in Mono Pyro teams. Her flexible field time also synergizes well with Ayaka and Bennett.Reverse VapeYanfei is a viable Reverse Vape on-field Pyro DPS character with Ayaka. In subsequent rotations, it can be difficult for Ayaka to absorb Hydro into his Burst before using Bennett.At C4, Yanfei can serve as a shielder with her Burst in VV Vape setups (usually with Hu Tao, if ever). However, her ER requirements are incredibly high and she requires Favonius Codex or R5 Prototype Amber to manage them; an ER Sands should realistically be used as well. Double VV setups and Hydro Absorption into Ayaka’s Burst are possible, but difficult in practice.Reverse Melt (Ganyu)At C4, Yanfei can be the shielder for Reverse Melt Ganyu teams with Ayaka. For more information, read the Ganyu Extended Guide.YoimiyaSynergy: ExcellentReverse VapeVV Vape teams with Yoimiya and Ayaka vary in difficulty to pull off proper Double Swirl setups. With Xingqiu, they are highly technical and difficult in single-target scenarios. With Yelan, the setups are much easier in any scenario. Yoimiya — Ayaka — Yelan — Bennett is Yoimiya’s potential damage ceiling, and the Double Swirl setup is incredibly easy.Mono PyroYoimiya works well in Mono Pyro teams with Ayaka without a significant loss in personal damage compared to her Reverse Vape teams. Her Mono Pyro teams typically require Bennett, with flex options for the fourth slot being another Pyro character like Xiangling or a Geo unit like Zhongli. 
+
+
+
+
+
+Anemo 
+
+
+
+FaruzanSynergy: GoodTriple AnemoFaruzan is the crux of Triple Anemo teams, providing an Anemo DMG buff and Anemo RES Shred. She can also hold 4pc Noblesse Oblige or 4pc TotM (at C6) to further buff the team. However, her high ER requirements before C6 make Favonius Warbow almost obligatory. At C6, Elegy for the End is a good option to provide additional buffs to the team, although Favonius is still highly recommended.Ayaka can make good use of Faruzan’s buffs on an ADC build viable only in her Triple Anemo teams.HeizouSynergy: Good4TF Ayaka (Aggravate or Electro-Charged)Heizou’s EM buff and potential to use Hakushin Ring make him a good option with 4TF Ayaka. While his EM buff is lower than Sucrose’s, his personal damage can compensate at high enough investment. Heizou can also hold Prototype Amber to provide supplemental healing for the team.Triple AnemoHeizou is a decent option in Triple Anemo teams as an on-field or quickswap Anemo DPS. His short Skill and Burst cooldowns sync nicely with Ayaka’s own cooldowns. JeanSynergy: Poor4TF Ayaka (Aggravate or Electro-Charged)Jean is a decent option for 4TF Ayaka through her healing. Compared to Venti or Sucrose, she is unable to trigger nearly as many reactions. Her lack of grouping outside of aimed uses of her Skill make Jean a suboptimal choice overall.LynetteSynergy: GoodTriple AnemoAt C6, Lynette can become a viable on-field Anemo DPS with her Anemo-infused Normal Attacks. Lynette's Burst also provides a modest 12% ATK buff to the team thanks to her A1 Passive as well as a Taunt that can help with survivability. Lynette almost always runs with Bennett here.4TF Ayaka (Aggravate or Electro-Charged)Lynette's Burst can be useful in 4TF Ayaka due to its Taunt, 16% ATK buff, and ability to deal additional Electro (or Hydro) damage. Nonetheless, other Anemo options like Venti or Sucrose are preferred. At C4, her second Skill charge helps maintain 4VV RES Shred uptime.SayuSynergy: Poor4TF Ayaka (Aggravate or Electro-Charged)Sayu is a decent defensive Anemo option for 4TF Ayaka, able to trigger Aggravated Swirls or Electro-Charged in AoE with her Electro-absorbed Skill. SucroseSynergy: Good4TF Ayaka (Aggravate)Sucrose can be used to buff Ayaka and other team members. Her EM buffs and potential to use Hakushin Ring make her a great option. Furthermore, her ability to absorb Electro into her Burst can increase Fischl’s A4 procs. She can also hold Prototype Amber to provide supplemental healing for the team.4TF Ayaka (Electro-Charged)Sucrose is competitive with Venti in 4TF Ayaka Electro-Charged teams due to her EM buffs, decent crowd control, and ability to hold TTDS or Hakushin Ring.VentiSynergy: ExcellentVenti and Ayaka’s combined grouping is incredibly powerful in AoE content, especially against mobs of lighter enemies. Venti’s tight grouping allows Ayaka to trigger Swirl on multiple enemies, increasing his personal damage contribution.4TF Ayaka (Aggravate or Electro-Charged)Venti is 4TF Ayaka’s best Anemo pairing. He provides significant off-field DPS, incredibly strong AoE grouping, and reapplication of Electro through his Burst and Swirls. His frequent Electro Swirls also trigger Fischl’s A4 Passive, further increasing team DPS. His Energy refund for Fischl lets her get away with no additional ER investment.If you require a defensive option, a Dendro unit like Baizhu, Yaoyao, or Kirara is your best bet, since Electro units like Kuki Shinobu or Dori would be a significant downgrade from Fischl.Electro-ChargedVenti can be used in conjunction with Ayaka in AoE scenarios to deal many Electro-Charged Swirls with an Electro or Hydro-absorbed Burst.WandererSynergy: GoodTriple AnemoWanderer can take advantage of Ayaka’s grouping to hit multiple enemies at once with his Charged Attack in the Windfavored state. However, Venti’s grouping may be more valuable in high AoE content. In single-target, Ayaka’s personal damage is significantly lower and his crowd control becomes irrelevant. Other options like Xingqiu, Yelan, or Fischl are better off-field DPS options for Wanderer in single-target scenarios.XianyunSynergy: GoodTriple Anemo, Reverse Vape, & 4TF Ayaka (Electro-Charged)Xianyun lets Ayaka become a viable Plunging Attack DPS with either his own C6 (Anemo Infusion) or with C6 Bennett (Pyro Infusion). She also buffs his Anemo-infused Plunging Attack called Midare Ranzan, so a 4pc Thundering Fury build may be possible with teammates like Fischl and Furina. XiaoSynergy: GoodTriple AnemoAyaka provides personal damage and valuable grouping for Xiao. Unlike Venti whose Burst can lift enemies out of reach, Ayaka groups targets so they can all be hit. It is generally best to use Ayaka’s Skill and Burst before Bennett’s Burst to maximize buff uptime with Xiao.
+
+
+
+
+
+Dendro 
+
+
+
+AlhaithamSynergy: PoorAggravate & SpreadAlhaitham is a great on-field Spread DPS, but with Ayaka, he cannot benefit from a Dendro battery since Ayaka cannot consistently Swirl or absorb Electro with two Dendro units in the team. Additionally, Alhaitham’s long field time and rotations make it difficult for him to coordinate with Ayaka.HyperbloomWith an Electro-absorbed Ayaka Burst, there is enough Electro application to allow Alhaitham to consistently trigger Spread. However, there may be Dendro Core production issues if the Hydro applier cannot apply Hydro quickly enough. He is best paired with Xingqiu or Yelan.BaizhuSynergy: GoodBaizhu is a good defensive option in Ayaka’s Dendro teams. However, his poor AoE Dendro application and 20s Burst cooldown make him a suboptimal choice when you can play without his defensive utility. AggravateBaizhu allows two DPS-oriented Electro units to be used comfortably in Aggravate teams. His typical rotations with Keqing and Fischl are 25s long.Hyperbloom & BurgeonBaizhu is a viable on-field driver in Hyperbloom and Burgeon teams, but he should not be relied upon as an off-field Dendro applier due to his slow application, i.e. he should be played on-field.ColleiSynergy: ExcellentCollei’s short cooldowns allow her to synergize quite well with Ayaka. She also provides rapid Dendro application in a short period of time, which can be useful against enemies with short vulnerability windows. At C4, her Burst increases the team’s EM by 60, which Ayaka appreciates. If Collei is holding Sacrificial Bow (R4+), then the team’s rotation should extend to 20s to accommodate the effect cooldown.4TF Ayaka (Aggravate)Collei fits very nicely into 4TF Ayaka teams and is a great choice since her Dendro application cannot overtake Electro auras in subsequent rotations (unlike Nahida). She is best used with Venti and Fischl.AggravateIn Ayaka’s other Aggravate teams, Collei is a viable choice if you can play without heals or shields. Otherwise, you will need Kirara, Yaoyao, Kuki Shinobu, or Dori to fulfill your defensive needs.Hyperbloom & BurgeonCollei works in Hyperbloom teams, especially ones that play shorter rotations or have a quickswap playstyle. For teams with longer rotations (like with Xingqiu), she falls off in comparison to other Dendro options like Nahida or Traveler.KiraraSynergy: ExcellentAggravate & 4TF Ayaka (Aggravate)Kirara’s short cooldowns on her Skill and Burst make her a great fit in quickswap Aggravate teams with Ayaka. However, her poor off-field Dendro application forces her to act as a quickswap Dendro enabler with her short Hold Skill technique or as an on-field Dendro enabler with her long Hold Skill.NahidaSynergy: GoodNahida is a great Dendro option in most of Ayaka’s Dendro teams due to her 1.5U Dendro application, strong personal damage, and flexible field time. Her 5–6s Skill cooldown and 13.5s Burst cooldown let her slot in comfortably in Ayaka’s teams.Aggravate & SpreadA strong Electro applier like Fischl is necessary for Ayaka to have consistent Electro Swirls.4TF Ayaka (Aggravate)Nahida is a good unit for 4TF Ayaka teams, but her 1.5U AoE Dendro application can make it difficult to Swirl or absorb Electro in subsequent rotations. Her solid EM buffs and personal damage make her a worthwhile unit to use nonetheless, especially at higher Constellation levels.HyperbloomNahida is great for Hyperbloom teams, allowing for high Dendro Core production and good Quicken uptime. However, her 1.5U Dendro application can make it difficult for Ayaka to Swirl Electro and Hydro.BurgeonNahida is a great choice for Burgeon due to her aforementioned benefits. Note that in multiple rotations, it can be difficult for Ayaka to absorb and Swirl Hydro due to her 1.5U Dendro application, which consumes more Hydro aura and allows Burning to occur more often.Reverse MeltNahida’s highly consistent Dendro application and EM buff allow her to serve as an additional support in Reverse Melt teams through Burning. Rosaria takes the most advantage of this interaction due to her lack of Burst ICD, but C6 Ganyu also enjoys this playstyle with Ayaka. Note that C1 Nahida has lower Burning uptime than C0 due to the added Electro buff.TighnariSynergy: GoodAggravate & 4TF Ayaka (Aggravate)Tighnari’s short cooldowns work well with Ayaka; however, Tighnari’s damage is more single-target focused while Ayaka tends to specialize in AoE. Furthermore, his lack of defensive utility can force you to run an Electro healer since Tighnari’s Skill alone is not enough for survivability. Regardless, Tighnari’s Electro teammates greatly appreciate Ayaka’s buffs.Traveler (Dendro)Synergy: GoodTraveler is a great option in teams with rotations lasting at least 20s. Their consistent off-field Dendro application allows on-field DPS units to fully use Ayaka’s buffs.Aggravate & 4TF Ayaka (Aggravate)Traveler is a viable option in Aggravate teams due to their consistent and long-lasting AoE Dendro application. However, in quickswap variations, Collei is a better free-to-play option.HyperbloomTraveler is a good choice in Hyperbloom. Their Burst’s Electro transfiguration is optimal in single-target, while the Hydro transfiguration is situationally more useful in AoE. That said, the difference is generally not too significant.BurgeonIn Traveler’s Burgeon team, you must ensure Hydro is applied to their Burst, since a Pyro transfiguration causes their off-field Dendro application to end. YaoyaoSynergy: ExcellentYaoyao is a good healer option in Ayaka’s teams due to her 15s Skill cooldown and pseudo-random AoE Dendro application. However, without her Burst, she may fail to apply enough Dendro in some teams, resulting in lower Quicken uptime or Dendro Core production. In teams with 20s rotations, she can use her Burst to apply more Dendro without extending the rotation.AggravateYaoyao allows two DPS-oriented Electro units to be used comfortably in Aggravate teams.4TF Ayaka (Aggravate)Yaoyao’s role consolidation as healer and Dendro application lets you use Venti and Fischl comfortably. Her Skill’s 15s cooldown fits nicely into the team’s rotation.HyperbloomYaoyao is a great option in Ayaka’s Hyperbloom teams, comfortably enabling DPS-oriented units like Fischl while being used on-field.
+
+
+
+
+
+Geo 
+
+
+
+AlbedoSynergy: GoodMono ElementAlbedo can deal significant, consistent off-field Geo damage. However, he is often subpar to other units that can take advantage of Ayaka’s A4 DMG buff and 4VV RES Shred.Forward Melt (Bennett)Albedo is a solid choice in Forward Melt teams with Bennett and Ayaka since his A4 Passive provides 125 EM. His short field time, long Skill duration, and low rates of Geo application afford him a place in the last team slot.Electro-ChargedAlbedo provides consistent, off-field Geo damage through his Skill that doesn’t cut heavily into simultaneous Electro and Hydro auras. His 125 EM buff, short field time, and long Skill duration make him a good fit into Electro-Charged teams, despite his inability to take advantage of Ayaka’s buffs.ChioriSynergy: PoorMono ElementChiori deals very strong off-field Geo damage. At C0, she prefers a Geo Construct character like Zhongli or Albedo, which severely limits team options with Ayaka. At C1, she becomes slightly more flexible since she no longer requires Geo Constructs for 2 Tamoto dolls, but she still requires a Geo teammate. As such, other options that can take advantage of Ayaka’s buffs are likely better teammates.Yun JinSynergy: PoorAyato HypercarryIn single-target scenarios, Yun Jin is a good choice for a Hypercarry Ayato playstyle. In multi-target scenarios, her Additive Base DMG Bonus can expire quickly, so she is outclassed by Candace who provides a longer-lasting buff and also takes advantage of Ayaka’s buffs.Mono Pyro & Pyro Hypercarry (Yoimiya)Yun Jin offers similar strength to Bennett in Yoimiya’s teams, depending on Constellations. When paired with Zhongli, she can enable Geo Resonance and enjoy slightly lower ER requirements.ZhongliSynergy: ExcellentZhongli is the best shielder in the game in terms of duration and strength. He also provides 20% Universal RES Shred and can employ buffing sets like Archaic Petra, TotM, and Instructor. However, his Geo application can interfere with the reactions of teams with precarious Elemental application, which forces you to place his stele away from enemies or in a way that it would be destroyed.Mono ElementZhongli’s shield is fantastic for Mono Element teams that would lack defensive options otherwise. With Archaic Petra, he can provide a 35% DMG Bonus to his Elemental teammates if you can pick up a Crystallize Shard. Reverse Melt (Ganyu)In Melt Ganyu teams with Ayaka, Zhongli is the best shielder option. Read that section of Ganyu’s Extended Guide for more details.Forward Melt (Bennett)While Zhongli is a lower damage option compared to other flex options, his shield provides comfort and his RES Shred can increase team DPS.Electro-Charged & Triple AnemoZhongli’s Elemental RES Shred is a welcome bonus. His shielding is valuable if you require the defensive utility.
+
+
+
+
+
+
+
+
+Credits
+
+
+
+Art by chaerbyssal
+
+
+Authors — Ayzel, Cuzimori, irokei, Reens, & VladTalent, Artifact, & Weapon Calcs — VladProject Coordinator — irokeiER Requirements — reens, irokeiTheorycrafting — caxia, leah, kb, Prévisible, reimu, revy, jay s, caramielle., mishkaxp, mimithiz, baloopyReadability — lostguide, nikato, emiliabyss, juko, fritzzes, epiccake808TC Verification — kb, Leah, nikato, caramielle.Readability Verification — emiliabyss, nikato, idkCalc Verification — redd, athenaTranscription — alix.sh, uhinf, irokeiQC — kokoArt Perms — Casdela, PrévisibleCombined Weapon Art — CasdelaLeaf Divider Art — kolTeam Images — Made with the KQM portrait generator
+
+
+
+References
+
+
+
+
+Ayaka Mastersheet
+
+
+
+Ayaka Calc Files
+
+
+
+Ayaka Quick Guide
+
+
+
+
+		
+
+				
+			
+
+		
+	
+
+
+
+	
+
+
+
+
+
+
+    ^
+
+
+  
+    Update cookie preferences
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    © 2025 KQM
+    Website built by ~ Yami
+     Other things I built :)  
+    
+        Yuri Translations 
+        Mistress I was wrong translations 
+        Asian Novel Translation Tool 
+        ChatGPT AI tool
+        Dating Photos Generator
+        Novel Translation Tool
+    
+
+
+
+
+
+
+        Guides and content - KQM contributors and staff
+    Website Feedback on KQM Discord- Click Here || Cookie Policy
+    © All rights reserved by HoYoverse. Other properties belong to their respective owners.
+                            
+
+
+
+
+
+
+
+	
+
+
